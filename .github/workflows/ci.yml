@@ -9,8 +9,8 @@ on:
   pull_request:
 
 env:
-  staging_synapse_project_id: syn22277124
-  production_synapse_project_id: syn22277123
+  staging_synapse_project_id: syn25829070
+  production_synapse_project_id: syn25829067
   node_version: 12.x
 
 jobs:
