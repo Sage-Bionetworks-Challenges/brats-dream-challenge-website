@@ -2,7 +2,7 @@
 
 Pages of the NLP Sandbox website hosted on Synapse
 
-## Overview
+## Overview 2
 
 This repository includes the pages of the [NLP Sandbox website] hosted on
 Synapse.org. This repository is used by the [NLP Sandbox Team] to track changes
