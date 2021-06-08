@@ -1,19 +1,21 @@
+<!-- markdownlint-disable no-emphasis-as-header -->
 
+<!-- markdownlint-disable-next-line first-line-h1 -->
 ### **Late submissions are generally not accepted, so if you have never submitted to a Challenge before, please make sure to SUBMIT EARLY so that you can understand and get familiar with the submission system.**
 
 Here are some scenarios where late submissions **may** be allowed:
 
-* If you have already made a submission (either as a user or as a team), and just by honest mistake, submitted the **exact same** predictions file/Docker image instead of a new one. In such events, participants are requested to inform the Organizers as soon as possible. Submissions for which the score has already been returned to you cannot be cancelled.
+- If you have already made a submission (either as a user or as a team), and just by honest mistake, submitted the **exact same** predictions file/Docker image instead of a new one. In such events, participants are requested to inform the Organizers as soon as possible. Submissions for which the score has already been returned to you cannot be cancelled.
 
-* If you are part of a team and have been making team submissions, but mistakenly submitted as an individual at the last-minute.  If this occurs, contact the Organizers as soon as possible. The rectification will be to invalidate the submission as an individual participant, to which after you can submit as a team.
+- If you are part of a team and have been making team submissions, but mistakenly submitted as an individual at the last-minute.  If this occurs, contact the Organizers as soon as possible. The rectification will be to invalidate the submission as an individual participant, to which after you can submit as a team.
 
 Here are some scenarios where late submissions are **absolutely not** allowed:
 
-* From past experience, many participants make one last submission shortly before the end of a round or Challenge. Due to this, there may be a buildup of submissions depending on the compute resources available to the Challenge. As long as the submission is submitted prior to the deadline, the submission will be evaluated. That being said, you may not receive feedback from the submission until after your submission starts to run, which may happen after the submission deadline. If the submission fails due to a participant’s mistake, the Challenge Organizers will NOT accept the participant to make a new submission.
+- From past experience, many participants make one last submission shortly before the end of a round or Challenge. Due to this, there may be a buildup of submissions depending on the compute resources available to the Challenge. As long as the submission is submitted prior to the deadline, the submission will be evaluated. That being said, you may not receive feedback from the submission until after your submission starts to run, which may happen after the submission deadline. If the submission fails due to a participant’s mistake, the Challenge Organizers will NOT accept the participant to make a new submission.
 
-* Forgetting about a deadline
+- Forgetting about a deadline
 
-#### **Note that submissions are due the day of the deadline at 5PM Pacific Time** (unless otherwise noted).
+#### **Note that submissions are due the day of the deadline at 5PM Pacific Time** (unless otherwise noted)
 
 Once you have submitted your predictions file or Docker image, you should receive the following email:
 
