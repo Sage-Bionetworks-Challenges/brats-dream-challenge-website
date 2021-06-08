@@ -23,16 +23,10 @@
         "markdown_path": "610878-FrequentlyAskedQuestions.md"
     },
     {
-        "id": "610874",
+        "id": "611092",
         "title": "How to Participate",
         "parentId": "610871",
-        "markdown_path": "610874-HowtoParticipate.md"
-    },
-    {
-        "id": "610877",
-        "title": "Leaderboard",
-        "parentId": "610871",
-        "markdown_path": "610877-Leaderboard.md"
+        "markdown_path": "611092-HowtoParticipate.md"
     },
     {
         "id": "610876",
@@ -41,9 +35,63 @@
         "markdown_path": "610876-NewsUpdates.md"
     },
     {
-        "id": "610875",
+        "id": "611096",
+        "title": "Results",
+        "parentId": "610871",
+        "markdown_path": "611096-Results.md"
+    },
+    {
+        "id": "611097",
         "title": "Rules & Resources",
         "parentId": "610871",
-        "markdown_path": "610875-RulesResources.md"
+        "markdown_path": "611097-RulesResources.md"
+    },
+    {
+        "id": "611100",
+        "title": "Participants & Teams",
+        "parentId": "611092",
+        "markdown_path": "611100-ParticipantsTeams.md"
+    },
+    {
+        "id": "611101",
+        "title": "Participation Overview",
+        "parentId": "611092",
+        "markdown_path": "611101-ParticipationOverview.md"
+    },
+    {
+        "id": "611102",
+        "title": "Submission Dashboard",
+        "parentId": "611092",
+        "markdown_path": "611102-SubmissionDashboard.md"
+    },
+    {
+        "id": "611103",
+        "title": "Submission Tutorial (Docker)",
+        "parentId": "611092",
+        "markdown_path": "611103-SubmissionTutorialDocker.md"
+    },
+    {
+        "id": "611105",
+        "title": "Submission Tutorial (Writeup)",
+        "parentId": "611092",
+        "markdown_path": "611105-SubmissionTutorialWriteup.md"
+    },
+    {
+        "id": "611106",
+        "title": "Leaderboard Round",
+        "parentId": "611096",
+        "markdown_path": "611106-LeaderboardRound.md"
+    },
+    {
+        "id": "611098",
+        "title": "Docker Debugging Expectations",
+        "parentId": "611097",
+        "markdown_path": "611098-DockerDebuggingExpectations.md"
+    },
+    {
+        "id": "611099",
+        "title": "Late Submissions",
+        "parentId": "611097",
+        "markdown_path": "611099-LateSubmissions.md"
     }
 ]

@@ -1,11 +1,11 @@
-# NLPSandbox.io
+# BraTS DREAM Challenge
 
-Pages of the NLP Sandbox website hosted on Synapse
+Pages of the BraTS DREAM Challenge website hosted on Synapse
 
 ## Overview
 
-This repository includes the pages of the [NLP Sandbox website] hosted on
-Synapse.org. This repository is used by the [NLP Sandbox Team] to track changes
+This repository includes the pages of the [BraTS DREAM Challenge website] hosted on
+Synapse.org. This repository is used by the [BraTS DREAM Challenge Team] to track changes
 made to the website pages and continuously deploy (CD) them to Synapse.
 
 Using this repository instead of Synapse wiki editor offers the following
@@ -25,7 +25,7 @@ advantages.
 
 This repository relies on two Synapse projects:
 
-- Production site (e.g. [NLP Sandbox website])
+- Production site (e.g. [BraTS DREAM Challenge website])
 - Staging site
 
 We recommend configuring repositories created from this template to stick to the
@@ -107,11 +107,11 @@ Thinking about contributing to this project? Get started by reading our
 
 <!-- Links -->
 
-[NLP Sandbox website]: https://www.synapse.org/#!Synapse:syn22277123
-[NLP Sandbox Staging website]: https://www.synapse.org/#!Synapse:syn22277124
-[NLP Sandbox Team]: https://github.com/orgs/nlpsandbox/people
-[GitHub issue]: https://github.com/nlpsandbox/nlpsandbox-website-synapse/issues/new/choose
-[Apache License 2.0]: https://github.com/nlpsandbox/nlpsandbox-website-synapse/blob/staging/LICENSE
+[BraTS DREAM Challenge website]: https://www.synapse.org/#!Synapse:syn25829067
+[BraTS DREAM Challenge Staging website]: https://www.synapse.org/#!Synapse:syn25829070
+[BraTS DREAM Challenge Team]: https://github.com/orgs/Sage-Bionetworks-Challenges/teams/brats-dream-challenge-organizers
+[GitHub issue]: https://github.com/Sage-Bionetworks-Challenges/brats-dream-challenge-website/issues/new/choose
+[Apache License 2.0]: https://github.com/Sage-Bionetworks-Challenges/brats-dream-challenge-website/blob/staging/LICENSE
 [Create a GitHub repository from this template]: https://github.com/nlpsandbox/nlpsandbox-website-synapse/generate
 [CI/CD workflow]: .github/workflows/ci.yml
 [challengeutils]: https://github.com/Sage-Bionetworks/challengeutils

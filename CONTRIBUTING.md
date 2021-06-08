@@ -121,15 +121,13 @@ release.
 
 ## Getting Help
 
-Join us on the [NLP Sandbox Discord server] and post your question to the
-channel that best matches the topic of your request.
+File a [Github Issue](https://github.com/Sage-Bionetworks-Challenges/brats-dream-challenge-website/issues)!
 
 <!-- Links -->
 
 [Code of Conduct]: https://github.com/auth0/open-source-template/blob/master/CODE-OF-CONDUCT.md
 [upstream remote]: https://help.github.com/en/articles/configuring-a-remote-for-a-fork
 [reaction]: https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/
-[docs site]: https://github.com/nlpsandbox/nlpsandbox-website-synapse
+[docs site]: https://github.com/Sage-Bionetworks-Challenges/brats-dream-challenge-website
 [Forking Workflow]: https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
 [package.json]: package.json
-[NLP Sandbox Discord server]: https://discord.gg/Zb4ymtF
