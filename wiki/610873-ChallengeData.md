@@ -1,12 +1,14 @@
-
+<!-- markdownlint-disable-next-line first-line-h1 -->
 ${toc}
 
 ## **Description**
+
 Please use this page to provide a description of the Challenge data that will be used. Please include the type of data, name of data contributing groups and sample size. Please clarify what data will be used for training, vs leaderboard vs final scoring.
 
 ---
 
 ## **Conditions for Use**
+
 > BE SURE TO CONTACT GOVERNANCE ABOUT THIS CHALLENGE
 
 ---

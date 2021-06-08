@@ -1,3 +1,4 @@
+<!-- markdownlint-disable no-inline-html -->
 
 <div align="center" class="alert alert-info">
 See the <strong><a href="https://www.synapse.org/#!Synapse:syn25829070/discussion/" target="_blank">discussion forum</a></strong> for updates!
