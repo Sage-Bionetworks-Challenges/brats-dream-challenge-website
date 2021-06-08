@@ -1,6 +1,6 @@
-# NLPSandbox.io
+# BraTS DREAM Challenge
 
-Pages of the NLP Sandbox website hosted on Synapse
+Pages of the BraTS DREAM Challengewebsite hosted on Synapse
 
 ## Overview
 

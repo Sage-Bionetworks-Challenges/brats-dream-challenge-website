@@ -1,3 +1,7 @@
+<!-- markdownlint-disable no-inline-html -->
+<!-- markdownlint-disable header-start-left -->
+
+<!-- markdownlint-disable-next-line first-line-h1 -->
 ${image?fileName=BRATS%5Fbanner%5FnoCaption%2Epng&align=Center&scale=100&responsive=true&altText=BraTS Challenge banner}
 
 ---
@@ -10,8 +14,10 @@ ${image?fileName=BRATS%5Fbanner%5FnoCaption%2Epng&align=Center&scale=100&respons
 #### ${jointeam?teamId=3427584&isChallenge=true&isMemberMessage=You have successfully registered for the Challenge%2E&text=Click Here to Register&isSimpleRequestButton=true&requestOpenText=Your registration is in progress%2E&successMessage=Your registration is in progress%2E}
 
 {column}
- {column width=5} 
+ {column width=5}
+
 #### There are ${teammembercount?teamId=3427584} [registered participants](https://www.synapse.org/#!Team:0). <br>**Join them now!**
+
  {column}
  {column width=1}
  {column}
@@ -19,31 +25,33 @@ ${image?fileName=BRATS%5Fbanner%5FnoCaption%2Epng&align=Center&scale=100&respons
 
 ---
 
-#Overview
+# Overview
 
 Glioblastoma, and diffuse astrocytic glioma with molecular features of glioblastoma (WHO Grade 4 astrocytoma), are the most common and aggressive malignant primary tumor of the central nervous system in adults, with extreme intrinsic heterogeneity in appearance, shape, and histology. Glioblastoma patients have very poor prognosis, and the current standard of care comprises surgical resection followed by radiotherapy and chemotherapy. MGMT (O[6]-methylguanine-DNA methyltransferase) is a DNA repair enzyme that the methylation of its promoter in newly diagnosed glioblastoma has been identified as a favorable prognostic factor and a predictor of chemotherapy response. Thus determination of MGMT promoter methylation status in newly diagnosed glioblastoma can influence treatment decision making. The International Brain Tumor Segmentation (BraTS) Challenges—which have been run since 2012—assess state-of-the-art machine learning (ML) methods used for brain tumor image analysis in mpMRI scans. 
 
-##BraTS DREAM Challenge
+## BraTS DREAM Challenge
 
 {row}
  {column width=8}
 
-The **Brain Tumor Segmentation (BraTS) Challenge** celebrates its 10th anniversary, and this year is jointly organized by the [**Radiological Society of North America (RSNA)**](), the [**American Society of Neuroradiology (ASNR)**]*(), and the [**Medical Image Computing and Computer Assisted Interventions (MICCAI) society**]().
+The **Brain Tumor Segmentation (BraTS) Challenge** celebrates its 10th anniversary, and this year is jointly organized by the [**Radiological Society of North America (RSNA)**](https://www.rsna.org/), the [**American Society of Neuroradiology (ASNR)**](https://www.asnr.org/), and the [**Medical Image Computing and Computer Assisted Interventions (MICCAI) society**](http://www.miccai.org/).
 
 The RSNA/ASNR/MICCAI BraTS 2021 challenge utilizes multi-institutional multi-parametric magnetic resonance imaging (mpMRI) scans, and focuses on (**Task 1**) the evaluation of state-of-the-art methods for the segmentation of intrinsically heterogeneous brain glioblastoma sub-regions in mpMRI scans. Furthermore, to pinpoint the clinical relevance of this segmentation task, BraTS’21 also focuses on (**Task 2**) the evaluation of methods to predict the MGMT promoter methylation status at the pre-operative baseline scans, via integrative analyses of quantitative imaging phenomic features and machine learning algorithms.
 
-> **NOTE:** **Task 2** of the BraTS Challenge will be hosted by Kaggle. Participants interested in submitting to this task should visit [**this page**]().
+> **NOTE:** **Task 2** of the BraTS Challenge will be hosted by Kaggle. Participants interested in submitting to this task should visit **this page**(add link here).
 
 {column}
  {column width=4} 
 <font size = 3> **Getting started** </font>
-+ Learn more about the [**Question**](#!Synapse:syn25829070/wiki/610872)
-+ Learn more about the [**Data**](#!Synapse:syn25829070/wiki/610873)
+
+- Learn more about the [**Question**](#!Synapse:syn25829070/wiki/610872)
+- Learn more about the [**Data**](#!Synapse:syn25829070/wiki/610873)
+
 {row}
 
 ---
 
-###Challenge Question
+### Challenge Question
 
 {row}
  {column width=8}
@@ -55,13 +63,13 @@ The RSNA/ASNR/MICCAI BraTS 2021 challenge utilizes multi-institutional multi-par
 > The participants are called to address this task by using the provided clinically-acquired training data to develop their method and produce segmentation labels of the different glioma sub-regions.
 
 {column}
- {column width=4} 
+ {column width=4}
 Learn more about the [**Question**](#!Synapse:syn25829070/wiki/610872)
 {row}
 
 ---
 
-###Challenge Data
+### Challenge Data
 
 {row}
  {column width=8}
@@ -100,16 +108,16 @@ Learn more about [**How to Participate**](#!Synapse:syn25829070/wiki/610874) to 
 
 ## Data Contributors
 
-* John B. Freymann & Justin S. Kirby - on behalf of The Cancer Imaging Archive (TCIA),    Cancer Imaging Program, NCI, National Institutes of Health (NIH), USA
-* John Mongan, M.D., Ph.D. & Evan Calabrese, M.D., Ph.D. & Jeff Rudie, M.D., Ph.D.,    University of California San Francisco, CA, USA
-* Christos Davatzikos, Ph.D.,    CBICA, UPenn, Philadelphia, PA, USA
-* Rivka R. Colen, M.D., & Aikaterini Kotrotsou, Ph.D.,    MD Anderson Cancer Center, TX, USA
-* Daniel Marcus, Ph.D., & Mikhail Milchenko, Ph.D., & Arash Nazeri, M.D.,    Washington University School of Medicine in St. Louis, MO, USA
-* Hassan Fathallah-Shaykh, M.D., Ph.D.,    University of Alabama at Birmingham, AL, USA
-* Roland Wiest, M.D.,    University of Bern, Switzerland
-* Andras Jakab, M.D., Ph.D.,    University of Debrecen, Hungary
-* Marc-Andre Weber, M.D.,    Heidelberg University, Germany
-* Abhishek Mahajan, M.D., & Ujjwal Baid, Ph.D.,    Tata Memorial Centre, Mumbai, India, & SGGS Institute of Engineering and Technology, Nanded, India
+- John B. Freymann & Justin S. Kirby - on behalf of The Cancer Imaging Archive (TCIA),    Cancer Imaging Program, NCI, National Institutes of Health (NIH), USA
+- John Mongan, M.D., Ph.D. & Evan Calabrese, M.D., Ph.D. & Jeff Rudie, M.D., Ph.D.,    University of California San Francisco, CA, USA
+- Christos Davatzikos, Ph.D.,    CBICA, UPenn, Philadelphia, PA, USA
+- Rivka R. Colen, M.D., & Aikaterini Kotrotsou, Ph.D.,    MD Anderson Cancer Center, TX, USA
+- Daniel Marcus, Ph.D., & Mikhail Milchenko, Ph.D., & Arash Nazeri, M.D.,    Washington University School of Medicine in St. Louis, MO, USA
+- Hassan Fathallah-Shaykh, M.D., Ph.D.,    University of Alabama at Birmingham, AL, USA
+- Roland Wiest, M.D.,    University of Bern, Switzerland
+- Andras Jakab, M.D., Ph.D.,    University of Debrecen, Hungary
+- Marc-Andre Weber, M.D.,    Heidelberg University, Germany
+- Abhishek Mahajan, M.D., & Ujjwal Baid, Ph.D.,    Tata Memorial Centre, Mumbai, India, & SGGS Institute of Engineering and Technology, Nanded, India
 
 ---
 
