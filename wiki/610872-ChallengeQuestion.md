@@ -1,4 +1,6 @@
+<!-- markdownlint-disable no-missing-space-atx -->
 
+<!-- markdownlint-disable-next-line first-line-h1 -->
 ${toc}
 
 ## **Overview**
@@ -18,20 +20,25 @@ Overview of challenge questions
 
 ## **Subchallenges**
 
-### **Subchallenge 1**: 
+### **Subchallenge 1**
+
 ####! Submission Format
-### **Subchallenge 2**: 
+
+### **Subchallenge 2**
+
 ####! Submission Format
 
 ---
 
 ## **Assessment**
+
 Post scoring metric here
 
 ---
 
 
 ## **References**
+
 Information of challenge
 
 For more information on the data, see [**here**](#!Synapse:syn25829070/wiki/611091).

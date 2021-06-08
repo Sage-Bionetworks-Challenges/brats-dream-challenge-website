@@ -1,12 +1,15 @@
+<!-- markdownlint-disable no-emphasis-as-header -->
 
+<!-- markdownlint-disable-next-line first-line-h1 -->
 This page will assist you in submitting a Docker container to a challenge queue.
 ${toc}
 
 ---
 
 ## **1. Create a Synapse Project**
-* Name your project `BraTS DREAM Challenge <Your team name>`
-* You should also use this project for your final writeup submission, which should include your writeup as a Wiki, as well as prediction files (if any) and your source code in the **Files** tab.  View [**Writeup submission**](#!Synapse:syn25829070/wiki/611105) for more information. 
+
+- Name your project `BraTS DREAM Challenge <Your team name>`
+- You should also use this project for your final writeup submission, which should include your writeup as a Wiki, as well as prediction files (if any) and your source code in the **Files** tab.  View [**Writeup submission**](#!Synapse:syn25829070/wiki/611105) for more information. 
 ->${video?mp4SynapseId=syn20685869}<-
 ->_Creating a project on Synapse_<-
 
@@ -18,21 +21,24 @@ ${toc}
 This section will describe how to create your model and how it must take as parameters an input and output directory.
 
 ### Input files
-* Your model should take as a parameter `--input`.
-* All input files should be mounted in a directory called `/input` in the working directory of the container.
-* If you have one input file, the convention is to name it `/input/input.csv`. 
-* If you have multiple input files, these should be called `/input/input1.csv`, `/input/input2.csv` and so on.
-* You should provide a description of what the input file(s) will look like in this section
-* If you have multiple rounds, you should describe any differences between the input files for each round in this section.
+
+- Your model should take as a parameter `--input`.
+- All input files should be mounted in a directory called `/input` in the working directory of the container.
+- If you have one input file, the convention is to name it `/input/input.csv`. 
+- If you have multiple input files, these should be called `/input/input1.csv`, `/input/input2.csv` and so on.
+- You should provide a description of what the input file(s) will look like in this section
+- If you have multiple rounds, you should describe any differences between the input files for each round in this section.
 
 ### Output files
-* All output files should be written into a directory called `/output` in the working directory of the container.
-* If there is one output file, the convention is to name it `/output/predictions.csv`. 
-* If there are multiple output files, these should be called `/output/predictions1.csv`, `/output/predictions2.csv` and so on.
-* You should provide a description of what the output file(s) will look like in this section.
-* If you have multiple rounds, you should describe any differences between the input files for each round in this section.
+
+- All output files should be written into a directory called `/output` in the working directory of the container.
+- If there is one output file, the convention is to name it `/output/predictions.csv`. 
+- If there are multiple output files, these should be called `/output/predictions1.csv`, `/output/predictions2.csv` and so on.
+- You should provide a description of what the output file(s) will look like in this section.
+- If you have multiple rounds, you should describe any differences between the input files for each round in this section.
 
 ### Example
+
 Here is an example of what an R script might look like, utilizing the conventions above:
 
 _run_model.R_
@@ -71,7 +77,8 @@ This section will describe how to write your Dockerfile. The Dockerfile describe
 Here is an example Dockerfile using the **run_model.r** script created above:
 
 _Dockerfile_
-```
+
+```docker
 ## Start from this Docker image
 FROM ubuntu
 
@@ -91,20 +98,26 @@ RUN chmod a+x /usr/local/bin/run_model.R
 ## Make Docker container executable
 ENTRYPOINT ["Rscript", "/usr/local/bin/run_model.R"]
 ```
+
 The rest of this Wiki will go through each line in the **Dockerfile** example and explain its purpose.
 
 ### FROM (Pull from a base image)
+
 The FROM command establishes what existing Docker image your image starts with. 
-* Whenever possible, use current Official Repositories as the basis for your image.   
-* We recommend using Ubuntu, e.g.
-```
+
+- Whenever possible, use current Official Repositories as the basis for your image.   
+- We recommend using Ubuntu, e.g.
+
+```docker
 ## Start from this Docker image
 FROM ubuntu
 ```
 
 ### RUN (Install dependencies)
+
 The most common use-case for RUN is an application of `apt-get` to install dependencies.  This example installs R, along with the R packages, plyr and readr:
-```
+
+```docker
 ## Install R in Docker image
 RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y r-base
 
@@ -115,20 +128,26 @@ RUN Rscript -e "install.packages('readr')"
 ```
 
 ### COPY (Transfer local files into Docker image)
+
 All files, including any scripts and their input files, should be copied into the Docker image; scripts should also be made executable. In this example, we are copying the script and model file from the previous section's example into the Docker image:
-```
+
+```docker
 ## Copy your files into Docker Container
 COPY run_model.R /usr/local/bin/
 COPY model.rds /usr/local/bin/
 ```
+
 ... as well as giving the script executable permissions:
-```
+
+```docker
 RUN chmod a+x /usr/local/bin/run_model.R
 ```
 
 ### ENTRYPOINT (Make your Docker container executable)
+
 The ENTRYPOINT  command specifies what gets executed when your Docker container is run. In this example, we want to run the Rscript we copied into `/usr/local/bin/`:
-```
+
+```docker
 ## Make Docker container executable
 ENTRYPOINT ["Rscript", "/usr/local/bin/run_model.R"]
 ```
@@ -141,21 +160,25 @@ For more information, visit [**Best practices for writing Dockerfiles**](https:/
 ## **4. Build a Docker image**
 
 This section describes how to create your Docker image. You will need:
-* Synapse ID of a project
-* Dockerfile
 
-### Set up your working directory.
-* Move your Dockerfile and all files you are copying into your Dockerfile into the same directory.
-* Make the above directory your current working directory.
+- Synapse ID of a project
+- Dockerfile
+
+### Set up your working directory
+
+- Move your Dockerfile and all files you are copying into your Dockerfile into the same directory.
+- Make the above directory your current working directory.
 
 ### Build your Docker image
+
 The basic syntax for creating a Docker image repository within your Synapse project is:
 `docker build -t docker.synapse.org/<Your project ID>/<Repo name>:<Tag> <Dockerfile path>`
 where:
-* `<Your project ID>`: A Synapse project ID
-* `<Repo name>`: The repository name will need to be unique in that namespace; it can be two to 255 characters, and can only contain lowercase letters, numbers or - and _.
-* `<Tag>`: Optional.  If no tag is specified, a `latest` tag is added to your image. Tagging your image is very helpful, because it allows you to build different versions of your Docker image.
-* `<Dockerfile path>`: Should be `.` since the Dockerfile should be in your current working directory.
+
+- `<Your project ID>`: A Synapse project ID
+- `<Repo name>`: The repository name will need to be unique in that namespace; it can be two to 255 characters, and can only contain lowercase letters, numbers or - and _.
+- `<Tag>`: Optional.  If no tag is specified, a `latest` tag is added to your image. Tagging your image is very helpful, because it allows you to build different versions of your Docker image.
+- `<Dockerfile path>`: Should be `.` since the Dockerfile should be in your current working directory.
 
 In our example, we will use **my_model** as the repository name.  The Docker image repo may be created with a tag or without one, e.g.
 
@@ -174,10 +197,11 @@ $ docker build -t  docker.synapse.org/syn12345/my-model .
 This section describes how to push your built Docker image from your local workstation up into Synapse. 
 
 ### Login to Synapse Docker Registry
+
 Enter the following command, then answer its questions:
 
 ```bash
-$ docker login docker.synapse.org
+docker login docker.synapse.org
 ```
 
 ### View your built images (optional)
@@ -195,16 +219,18 @@ docker.synapse.org/syn12345/expr-cyto-srf      version1            1e8a50a8d345 
 ```
 
 ### Push your Docker image
+
 You may now push your Docker image into Synapse, using the syntax:
 `docker push docker.synapse.org/<Your project ID>/<Repo name>:<Tag>`
 
-```
-$ docker push docker.synapse.org/syn12345/my-model
+```bash
+docker push docker.synapse.org/syn12345/my-model
 ```
 
 Notice how a TAG is not included in the command above; recall that `latest` will be the default tag.  If there is a specific Docker image with a tag you want to push, e.g. **my-model:version1**, simply include the TAG name into the push command:
-```
-$ docker push docker.synapse.org/syn12345/my-model:version1
+
+```bash
+docker push docker.synapse.org/syn12345/my-model:version1
 ```
 
 ### Verify the Docker image was successfully pushed(optional)
