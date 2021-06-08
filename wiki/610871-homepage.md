@@ -16,7 +16,7 @@ ${image?fileName=BRATS%5Fbanner%5FnoCaption%2Epng&align=Center&scale=100&respons
 {column}
  {column width=5}
 
-#### There are ${teammembercount?teamId=3427584} [registered participants](https://www.synapse.org/#!Team:0). <br>**Join them now!**
+#### There are ${teammembercount?teamId=3427584} [registered participants](https://www.synapse.org/#!Team:3427584). <br>**Join them now!**
 
  {column}
  {column width=1}
