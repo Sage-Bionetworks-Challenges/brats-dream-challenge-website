@@ -30,18 +30,3 @@ With the exception of sensitive topics, we **request that all Challenge-related 
 ## **Challenge Terms of Use**
 
 > BE SURE TO CONTACT GOVERNANCE ABOUT THIS CHALLENGE
-
-
----
-
-{row}
- {column width=3}
-[< Back to: **How to Participate**](#!Synapse:syn25829070/wiki/611092)
- {column}
- {column width=6}
-
- {column}
- {column width=3} 
-[> To: **News & Updates**](#!Synapse:syn25829070/wiki/611094)
- {column}
-{row}

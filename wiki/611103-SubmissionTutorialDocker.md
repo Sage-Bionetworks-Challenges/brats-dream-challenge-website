@@ -226,10 +226,3 @@ If the Docker image was successfully pushed, it should show up in the **Docker**
 
 ${image?fileName=docker%5Fsubmission%2Epng&align=Right&scale=50&responsive=true&altText=Submitting a Docker image}
 To submit your Docker image, navigate to the Docker image uploaded on Synapse and click on the **Docker Repository Tools** button in the upper-right corner.  Select **Submit Docker Repository to Challenge** from the options, then follow the prompts. 
-
-
-
----
-
-
-[< Back to: **How to Participate**](#!Synapse:syn25829070/wiki/611092)

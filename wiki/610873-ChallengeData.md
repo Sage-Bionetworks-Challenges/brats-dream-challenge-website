@@ -14,18 +14,3 @@ Please use this page to provide a description of the Challenge data that will be
 ## **Access**
 
 You must be registered to the challenge to access the data. Learn [**How to Participate**](#!Synapse:syn25829070/wiki/610874)
-
----
-
-{row}
- {column width=2}
-[< Back to: **Questions**](#!Synapse:syn25829070/wiki/588178)
- {column}
- {column width=7}
-
- {column}
- {column width=3} 
-[> To: **How to Participate**](#!Synapse:syn25829070/wiki/610874)
- {column}
-{row}
-

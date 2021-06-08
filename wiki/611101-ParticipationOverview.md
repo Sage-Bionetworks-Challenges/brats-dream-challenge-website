@@ -66,7 +66,3 @@ The [**Discussion Forum**](#!Synapse:syn25829070/discussion/default) should be u
 * Collaboration with other participants
 
 Learn more about [**discussion forums**](https://docs.synapse.org/articles/discussion.html).
-
----
-
-[< Back to: **How to Participate**](#!Synapse:syn25829070/wiki/611092)

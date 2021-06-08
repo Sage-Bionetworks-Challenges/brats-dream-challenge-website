@@ -35,18 +35,3 @@ Post scoring metric here
 Information of challenge
 
 For more information on the data, see [**here**](#!Synapse:syn25829070/wiki/611091).
-
----
-
-{row}
- {column width=2}
-[< Back to: **Home**](#!Synapse:syn25829070)
- {column}
- {column width=8}
-
- {column}
- {column width=2} 
-[> To: **Data**](#!Synapse:syn25829070/wiki/611091)
- {column}
-{row}
-

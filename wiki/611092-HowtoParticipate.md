@@ -12,18 +12,3 @@ Check on the progress of your submissions here.
 
 ### [**Submission Tutorial (Writeup)**](#!Synapse:syn25829070/wiki/611105)
 In order to be considered for the final round, you must also complete a writeup.  Follow this guide to prepare and submit one for the challenge.
-
----
-
-
-{row}
- {column width=2}
-[< Back to: **Data**](#!Synapse:syn25829070/wiki/611091)
- {column}
- {column width=7}
-
- {column}
- {column width=3} 
-[> To: **Rules & Resources**](#!Synapse:syn25829070/wiki/611097)
- {column}
-{row}

@@ -36,7 +36,3 @@ ${evalsubmit?projectId=syn25829070&unavailableMessage=Please register to make a 
 Every year, top performers are invited to present at the annual DREAM conference.  To do so, the top performers will need to provide abstracts into the following Google form. This way, we can submit these abstracts to the conference.
 
 ${buttonlink?text=Submit Abstract&url=https://forms%2Egle/nAidPSArJbHphdkQ9&highlight=true}
-
----
-
-[< Back to: **How to Participate**](#!Synapse:syn25829070/wiki/611092)
