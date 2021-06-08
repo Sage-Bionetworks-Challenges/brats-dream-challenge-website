@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line first-line-h1 -->
 Dockerized submissions may add a layer of complexity for challenge participants. As Challenge Organizers, we will do our best in supporting participants throughout the Challenge. Here are some tips to help you in troubleshooting your submission:
 
 ${toc}

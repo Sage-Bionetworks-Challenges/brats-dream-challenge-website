@@ -1,4 +1,4 @@
-
+<!-- markdownlint-disable-next-line first-line-h1 -->
 ${toc}
 
 The Challenge uses the site, Synapse, for all related efforts. To learn more about Synapse, visit our [**documentation**](https://docs.synapse.org/).  A good place to start is the [**Getting Started**](https://docs.synapse.org/articles/getting_started.html) guide. To learn about what Synapse can be used for, please read the [**Synapse FAQ**](https://docs.synapse.org/articles/faq.html).
@@ -23,22 +23,25 @@ Click [**here**](https://www.synapse.org/#!Map:3427584) to see where the world s
 It is encouraged, but not required, to work on this Challenge as a team.
 
 ### Create and Register a Team
+
 Learn more about how to [**create a team**](https://docs.synapse.org/articles/teams.html#creating-a-team). By default, the participant who creates a team is the "Team Captain" and has the ability to [**invite and remove members**](https://docs.synapse.org/articles/teams.html#invite-or-remove-users). All team members will need a Synapse account so that they can login and accept the team invitation.
 
 ${registerChallengeTeam?challengeId=4466&buttonText=Register your Team}
 
 ### Join an Existing Team
+
 You may also request to join an existing team that is already registered for this Challenge. Visit the [**Participants and Teams**](#!Synapse:syn25829070/wiki/611100) page to see all registered teams.  Learn more about [**joining a team**](https://docs.synapse.org/articles/teams.html#join-a-team).
 
 ## **Step 3. Access the Data**
 
- You can access the Challenge data once you have registered and have become a Certified User, in addition to accepting all the conditions of use of the data.  Learn more about the [**Data**](#!Synapse:syn25829070/wiki/611091) available.
+You can access the Challenge data once you have registered and have become a Certified User, in addition to accepting all the conditions of use of the data.  Learn more about the [**Data**](#!Synapse:syn25829070/wiki/611091) available.
 ${buttonlink?text=Access the Data &url=%23%21Synapse%3Asyn18059716}
 
 
 ## **Step 4. Prepare a Submission**
 
-For a participant to be eligible as a consortium-level author, there are two parts to the challenge submission: 
+For a participant to be eligible as a consortium-level author, there are two parts to the challenge submission:
+
 1.  An executable Docker container that contains the participant's model or a prediction file.   View [**File Submission**](#!Synapse:syn25829070/wiki/611104) and [**Docker Submission**](#!Synapse:syn25829070/wiki/611103).
 1.  A **public** Synapse Project that contains a writeup of their methods and source code.  For most Challenges, this will be submitted after the final submissions. View [**Writeup Submission**](#!Synapse:syn25829070/wiki/611105).
 1.  All submissions are due at 5PM Pacific Time of the deadline date.
@@ -48,6 +51,7 @@ For a participant to be eligible as a consortium-level author, there are two par
 > ${buttonlink?text=Become a Certified User&url=%23%21Quiz%3A&highlight=true}
 
 ## **Step 5. Submission**
+
 1. Make sure to indicate whether you are submitting as an individual or a team. If submitting as a team, identify the team. _Once you have submitted as a Team, you may not submit as an individual and vice versa._
 1. For the writeup submission, AFTER your final challenge submission, update the writeup's sharing settings by going to **Project Settings** > **Project Sharing Settings**, then clicking on the **Make Public** button (at the bottom of the popup screen). The following permissions will be enabled to your Synapse Project:
 
@@ -61,8 +65,10 @@ After you submit, expect an email either indicating that your submission was sub
 
 
 ## **Step 6. Share Ideas and Ask Questions**
+
 The [**Discussion Forum**](#!Synapse:syn25829070/discussion/default) should be used for:
-* Any and all questions about the Challenge 
-* Collaboration with other participants
+
+- Any and all questions about the Challenge
+- Collaboration with other participants
 
 Learn more about [**discussion forums**](https://docs.synapse.org/articles/discussion.html).
