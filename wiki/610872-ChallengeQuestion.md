@@ -11,12 +11,6 @@ The provided segmentation labels have values of 1 for NCR, 2 for ED, 4 for ET, a
 
 The participants are called to upload their method in a containerized way for evaluation (See [Submission Tutorial (Docker)](#!Synapse:syn25829070/wiki/611103)).
 
-{row}
-{column width=12}
-Overview of challenge questions
-{column}
-{row}
-
 ---
 
 ## **Subchallenges**
