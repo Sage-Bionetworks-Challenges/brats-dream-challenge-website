@@ -6,12 +6,15 @@ ${toc}
 Ample multi-institutional routine clinically-acquired multi-parametric MRI (mpMRI) scans of glioblastoma (GBM), with pathologically confirmed diagnosis and available MGMT promoter methylation status, are used as the training, validation, and testing data for this year’s BraTS challenge.
 
 Specifically, the datasets used in this year's challenge have been updated, since BraTS'20, with many more routine clinically-acquired mpMRI scans. Ground truth annotations of the tumor sub-regions are created and approved by expert neuroradiologists for every subject included in the training, validation, and testing datasets to quantitatively evaluate the predicted tumor segmentations of Task 1.
+
 ### Imaging Data Description
+
 All BraTS mpMRI scans are available as both DICOM (.dcm) and NIfTI files (.nii.gz) and describe a) native (T1) and b) post-contrast T1-weighted (T1Gd), c) T2-weighted (T2), and d) T2 Fluid Attenuated Inversion Recovery (T2-FLAIR) volumes, and were acquired with different clinical protocols and various scanners from multiple institutions, mentioned as data contributors here.
 
 All the imaging datasets have been segmented manually, by one to four raters, following the same annotation protocol, and their annotations were approved by experienced neuro-radiologists. Annotations comprise the GD-enhancing tumor (ET — label 4), the peritumoral edematous/invaded tissue (ED — label 2), and the necrotic tumor core (NCR — label 1), as described both in the BraTS 2012-2013 TMI paper and in the latest BraTS summarizing paper. The ground truth data were created after their pre-processing, i.e., co-registered to the same anatomical template, interpolated to the same resolution (1 mm<sup>3</sup>) and skull-stripped.
 
 ### Comparison with Previous BraTS datasets
+
 The BraTS data provided since BraTS'17, differs significantly from the data provided during the previous BraTS challenges (i.e., 2016 and backwards). The only data that have been previously used and are utilized again (during BraTS'17-'20) are the images and annotations of BraTS'12-'13, which have been manually annotated by clinical experts in the past. The data used during BraTS'14-'16 (from TCIA) have been discarded, as they described a mixture of pre- and post-operative scans and their ground truth labels have been annotated by the fusion of segmentation results from algorithms that ranked highly during BraTS'12 and '13. For BraTS'17, expert neuroradiologists have radiologically assessed the complete original TCIA glioma collections (TCGA-GBM, n=262 and TCGA-LGG, n=199) and categorized each scan as pre- or post-operative. Subsequently, all the pre-operative TCIA scans (135 GBM and 108 LGG) were annotated by experts for the various glioma sub-regions and included in this year's BraTS datasets. The exact procedures for these cases can be found in this manuscript.
 
 This year we also provide the naming convention and direct filename mapping between the data of BraTS'21-'17, and the TCGA-GBM, TCGA-LGG, and IvyGAP collections, available through The Cancer Imaging Archive (TCIA) to further facilitate research beyond the directly BraTS related tasks.
