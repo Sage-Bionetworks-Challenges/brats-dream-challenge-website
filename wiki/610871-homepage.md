@@ -12,13 +12,14 @@ ${image?fileName=BRATS%5Fbanner%5FnoCaption%2Epng&align=Center&scale=100&respons
  {column width=4}
 
 #### ${jointeam?teamId=3427584&isChallenge=true&isMemberMessage=You have successfully registered for the Challenge%2E&text=Click Here to Register&isSimpleRequestButton=true&requestOpenText=Your registration is in progress%2E&successMessage=Your registration is in progress%2E}
-#### There are ${teammembercount?teamId=3427584} [registered participants](https://www.synapse.org/#!Team:3427584). <br>**Join them now!**
-{column}
- {column width=4}
-${buttonlink?text=Access the Training Data&url=https://forms%2Egle/j7KLDKfA6qTup4mg8&align=Center}
 
 {column}
- {column width=2}
+ {column width=5}
+
+#### There are ${teammembercount?teamId=3427584} [registered participants](https://www.synapse.org/#!Team:3427584). <br>**Join them now!**
+
+ {column}
+ {column width=1}
  {column}
 {row}
 

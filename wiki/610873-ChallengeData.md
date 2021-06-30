@@ -55,4 +55,4 @@ Participants are allowed to use additional public and/or private data (from thei
 
 ## **Access**
 
-You must be registered to the challenge to access the data. Learn [**How to Participate**](#!Synapse:syn25829070/wiki/610874)
+You must be registered to the challenge to access the data and you must fill out this [google form](https://forms.gle/RuNkiqKDCKbvUmR37). Learn [**How to Participate**](#!Synapse:syn25829070/wiki/610874)
