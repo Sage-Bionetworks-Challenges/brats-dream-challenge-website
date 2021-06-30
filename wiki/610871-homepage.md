@@ -112,8 +112,8 @@ Learn more about [**How to Participate**](#!Synapse:syn25829070/wiki/610874) to 
 
 ## Data Contributors
 
-- Christos Davatzikos, Ph.D.,    CBICA, UPenn, Philadelphia, PA, USA
-- John Mongan, M.D., Ph.D. & Evan Calabrese, M.D., Ph.D. & Jeffrey D. Rudie, M.D., Ph.D. & Christopher Hess & Soonmee Cha & Javier Villanueva-Meyer,    University of California San Francisco, CA, USA
+- Christos Davatzikos, Ph.D. & Spyridon Bakas, Ph.D.,    Center ofr Biomedical Image Computing and Analytics, University of Pennsylvania, Philadelphia, PA, USA
+- John Mongan, M.D., Ph.D. & Evan Calabrese, M.D., Ph.D. & Jeffrey D. Rudie, M.D., Ph.D. & Christopher Hess, M.D., Ph.D. & Soonmee Cha, M.D. & Javier Villanueva-Meyer, M.D.,    University of California San Francisco, CA, USA
 - John B. Freymann & Justin S. Kirby - on behalf of The Cancer Imaging Archive (TCIA),    Cancer Imaging Program, NCI, National Institutes of Health (NIH), USA
 - Benedikt Wiestler, M.D., & Bjoern Menze, Ph.D.,   Technical University of Munich, Germany
 - Bjoern Menze, Ph.D.,    University of Zurich, Switzerland 
@@ -128,14 +128,26 @@ Learn more about [**How to Participate**](#!Synapse:syn25829070/wiki/610874) to 
 
 ---
 
-## Challenge Organizers
+## Challenge Organizing Committee
 
 | Name |  Institution | Role |
 | --- | --- |--- |
-| Spyridon Bakas | University of Pennsylvania | Challenge Lead & Co-Director |
-| Tim Bergquist | Sage Bionetworks | Challenge Lead |
-| Thomas Schaffter | Sage Bionetworks | Challenge Lead |
-| Thomas Yu | Sage Bionetworks | Challenge Infrastructure |
-| James Eddy | Sage Bionetworks | Co-Director |
-| Keyvan Farahani | NIH/NCI | Co-Director |
+| Spyridon Bakas | University of Pennsylvania | Lead & Co-Director |
+| Ujjwal Baid | University of Pennsylvania | Co-Organizer |
+| Evan Calabrese | University of California San Francisco | Co-Organizer |
+| Errol Colak | University of Toronto | Co-Organizer |
+| Timothy Bergquist | Sage Bionetworks | Evaluation Co-Lead |
+| Michel Bilello | University of Pennsylvania | Clinical Evaluator & Annotation Approver |
+| Satyam Ghodasara | University of Pennsylvania | Clinical Evaluator & Approver Coordinator |
+| Thomas Schaffter | Sage Bionetworks | Challenge Evaluation Co-Lead |
+| Thomas Yu | Sage Bionetworks | Challenge Evaluation Infrastructure |
+| James Eddy | Sage Bionetworks | Challenge Evaluation Co-Director |
+| Keyvan Farahani | NIH/NCI | Co-Organizer |
+| Adam Flanders | Thomas Jefferson University Hospital | Co-Organizer |
+| Felipe C. Kitamura |	Diagnósticos da América SA (DASA) | Co-Organizer|
+| Bjoern Menze | University of Zurich | Co-Organizer |
+| Suyash Mohan | University of Pennsylvania | Clinical Evaluator & Annotation Approver |
+| Luciano M. Prevedello |	The Ohio State University Wexner Medical Center | Co-Organizer |
+| Jeffrey D. Rudie | University of California San Francisco | Co-Organizer |
+| Russell T. Shinohara | University of Pennsylvania | Co-Organizer |
 ---
