@@ -34,8 +34,24 @@ You may also request to join an existing team that is already registered for thi
 
 ## **Step 3. Access the Data**
 
-You can access the Challenge data once you have registered and have become a Certified User, in addition to accepting all the conditions of use of the data.  Learn more about the [**Data**](#!Synapse:syn25829070/wiki/611091) available.
-${buttonlink?text=Access the Data &url=%23%21Synapse%3Asyn18059716}
+You can access the Challenge data once you have registered and have become a Certified User, in addition to accepting all the conditions of use of the data and filling out this [google form](https://forms.gle/RuNkiqKDCKbvUmR37). Make sure you register for the challenge first. Learn more about the [**Data**](#!Synapse:syn25829070/wiki/611091) available.
+{row}
+
+{column width=1}
+{column}
+
+{column width=3}
+${buttonlink?text=Request Data Access&url=https://forms.gle/RuNkiqKDCKbvUmR37}
+{column}
+
+{column width=3}
+${buttonlink?text=Access the Data&url=%23%21Synapse%3Asyn18059716}
+{column} 
+
+{column width=2}
+{column}
+
+{row}
 
 
 ## **Step 4. Prepare a Submission**
