@@ -17,6 +17,12 @@
         "markdown_path": "610872-ChallengeQuestion.md"
     },
     {
+        "id": "611493",
+        "title": "Challenge Timeline",
+        "parentId": "610871",
+        "markdown_path": "611493-ChallengeTimeline.md"
+    },
+    {
         "id": "610878",
         "title": "Frequently Asked Questions",
         "parentId": "610871",
