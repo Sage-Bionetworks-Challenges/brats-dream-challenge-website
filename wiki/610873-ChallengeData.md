@@ -38,7 +38,9 @@ This year we provide the naming convention and name mapping between the data of 
 - Acknowledgement: Challenge participants are permitted to use, publish, and present the Challenge results, after the embargo period, provided they adhere to the "Data usage Agreement and add the following acknowledgement: "Data used in this publication were obtained as part of the RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge project through Synapse ID (syn25829067)."
 
 - **Use of Data Beyond BraTS**
-Participants are not allowed to use additional public and/or private data (from their own institutions) for data augmentation during the training of the algorithm chosen to be ranked. This is due to our intentions to provide a fair comparison among the participating methods. However, participants are allowed to use additional public and/or private data (from their own institutions), only if for scientific publication purposes and they explicitly mention this in their submitted manuscripts and also report results using only the BraTS'21 data to discuss potential result differences.
+Participants are NOT allowed to use additional public and/or private data (from their own institutions) for extending the provided BraTS data, for the training of the algorithm chosen to be ranked. Similarly, using models that were pretrained on such datasets is NOT allowed. This is due to our intentions to provide a fair comparison among the participating methods.
+However, participants are allowed to use additional public and/or private data (from their own institutions), only if for scientific publication purposes and they explicitly mention this in their submitted manuscripts and also report results using only the BraTS'21 data to discuss potential result differences.
+
 
 - **Data Usage Agreement / Citations**
 
