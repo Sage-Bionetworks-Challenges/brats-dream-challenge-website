@@ -3,19 +3,7 @@
 <!-- markdownlint-disable-next-line first-line-h1 -->
 ${toc}
 
-## **Overview**
-
-The participants are called to address this task by using the provided clinically-acquired training data to develop their method and produce segmentation labels of the different glioma sub-regions. The sub-regions considered for evaluation are the "enhancing tumor" (ET), the "tumor core" (TC), and the "whole tumor" (WT) [see figure below]. The ET is described by areas that show hyper-intensity in T1Gd when compared to T1, but also when compared to “healthy” white matter in T1Gd. The TC describes the bulk of the tumor, which is what is typically resected. The TC entails the ET, as well as the necrotic (NCR) parts of the tumor. The appearance of NCR is typically hypo-intense in T1-Gd when compared to T1. The WT describes the complete extent of the disease, as it entails the TC and the peritumoral edematous/invaded tissue (ED), which is typically depicted by hyper-intense signal in FLAIR.
-
-The provided segmentation labels have values of 1 for NCR, 2 for ED, 4 for ET, and 0 for everything else.
-
-The participants are called to upload their method in a containerized way for evaluation (See [Submission Tutorial (Docker)](#!Synapse:syn25829070/wiki/611103)).
-
----
-
-## **Subchallenges**
-
-### **Subchallenge 1**
+## **Challenge Task: Tumor Sub-region Segmentation**
 
 The participants are called to address this task by using the provided clinically-acquired training data to develop their method and produce segmentation labels of the different glioma sub-regions. **The sub-regions considered for evaluation are the "enhancing tumor" (ET), the "tumor core" (TC), and the "whole tumor" (WT)** [see figure below]. The ET is described by areas that show hyper-intensity in T1Gd when compared to T1, but also when compared to “healthy” white matter in T1Gd. The TC describes the bulk of the tumor, which is what is typically resected. The TC entails the ET, as well as the necrotic (NCR) parts of the tumor. The appearance of NCR is typically hypo-intense in T1-Gd when compared to T1. The WT describes the complete extent of the disease, as it entails the TC and the peritumoral edematous/invaded tissue (ED), which is typically depicted by hyper-intense signal in FLAIR.
 
@@ -24,19 +12,23 @@ The participants are called to upload their method in a containerized way for ev
 
 ### Submission Format
 
-> TODO
+> See [Submission Tutorial (Docker)](#!Synapse:syn25829070/wiki/611103)
 
 ---
 
 ## **Assessment**
 
-Consistent with the configuration of previous BraTS challenges, we intend to use the "Dice score", and the "Hausdorff distance (95%)". Expanding upon this evaluation scheme, we will also provide the metrics of "Sensitivity" and "Specificity", allowing to determine potential over- or under-segmentations of the tumor sub-regions by participating methods.
+Consistent with the configuration of previous BraTS challenges, we intend to use the "Dice SImilarity Coefficient", and the "Hausdorff distance (95%)". Expanding upon this evaluation scheme, we will also provide the metrics of "Sensitivity" and "Specificity", allowing to determine potential over- or under-segmentations of the tumor sub-regions by participating methods.
 
 ---
 
 
 ## **References**
 
-Information of challenge
+[1] B. H. Menze, A. Jakab, S. Bauer, J. Kalpathy-Cramer, K. Farahani, J. Kirby, et al. "The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)", IEEE Transactions on Medical Imaging 34(10), 1993-2024 (2015) DOI: 10.1109/TMI.2014.2377694
+
+[2] S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J.S. Kirby, et al., "Advancing The Cancer Genome Atlas glioma MRI collections with expert segmentation labels and radiomic features", Nature Scientific Data, 4:170117 (2017) DOI: 10.1038/sdata.2017.117
+
+[3] S. Bakas, M. Reyes, A. Jakab, S. Bauer, M. Rempfler, A. Crimi, et al., "Identifying the Best Machine Learning Algorithms for Brain Tumor Segmentation, Progression Assessment, and Overall Survival Prediction in the BRATS Challenge", arXiv preprint arXiv:1811.02629 (2018)
 
 For more information on the data, see [**here**](#!Synapse:syn25829070/wiki/611091).
