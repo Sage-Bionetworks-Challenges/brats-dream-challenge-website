@@ -117,7 +117,7 @@ Learn more about [**How to Participate**](#!Synapse:syn25829070/wiki/610874) to 
 - John B. Freymann & Justin S. Kirby - on behalf of The Cancer Imaging Archive (TCIA),    Cancer Imaging Program, NCI, National Institutes of Health (NIH), USA
 - Benedikt Wiestler, M.D., & Bjoern Menze, Ph.D.,   Technical University of Munich, Germany
 - Bjoern Menze, Ph.D.,    University of Zurich, Switzerland 
-- Errol Colak, Priscila Crivellaro,    University of Toronto, Toronto, ON, Canada 
+- Errol Colak, M.D., Priscila Crivellaro,    University of Toronto, Toronto, ON, Canada 
 - Rivka R. Colen, M.D., & Aikaterini Kotrotsou, Ph.D.,    MD Anderson Cancer Center, TX, USA
 - Daniel Marcus, Ph.D., & Mikhail Milchenko, Ph.D., & Arash Nazeri, M.D.,    Washington University School of Medicine in St. Louis, MO, USA
 - Hassan Fathallah-Shaykh, M.D., Ph.D.,    University of Alabama at Birmingham, AL, USA
