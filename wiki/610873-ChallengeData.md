@@ -13,6 +13,7 @@ All BraTS mpMRI scans are available as both DICOM (.dcm) and NIfTI files (.nii.g
 
 All the imaging datasets have been segmented manually, by one to four raters, following the same annotation protocol, and their annotations were approved by experienced neuro-radiologists. Annotations comprise the GD-enhancing tumor (ET — label 4), the peritumoral edematous/invaded tissue (ED — label 2), and the necrotic tumor core (NCR — label 1), as described both in the BraTS 2012-2013 TMI paper and in the latest BraTS summarizing paper. The ground truth data were created after their pre-processing, i.e., co-registered to the same anatomical template, interpolated to the same resolution (1 mm<sup>3</sup>) and skull-stripped.
 
+
 ### Comparison with Previous BraTS datasets
 
 The BraTS data provided since BraTS'17, differs significantly from the data provided during the previous BraTS challenges (i.e., 2016 and backwards). The only data that have been previously used and are utilized again (during BraTS'17-'20) are the images and annotations of BraTS'12-'13, which have been manually annotated by clinical experts in the past. The data used during BraTS'14-'16 (from TCIA) have been discarded, as they described a mixture of pre- and post-operative scans and their ground truth labels have been annotated by the fusion of segmentation results from algorithms that ranked highly during BraTS'12 and '13. For BraTS'17, expert neuroradiologists have radiologically assessed the complete original TCIA glioma collections (TCGA-GBM, n=262 and TCGA-LGG, n=199) and categorized each scan as pre- or post-operative. Subsequently, all the pre-operative TCIA scans (135 GBM and 108 LGG) were annotated by experts for the various glioma sub-regions and included in this year's BraTS datasets. The exact procedures for these cases can be found in this manuscript.
@@ -55,4 +56,4 @@ Participants are allowed to use additional public and/or private data (from thei
 
 ## **Access**
 
-You must be registered to the challenge to access the data and you must fill out this [google form](https://forms.gle/RuNkiqKDCKbvUmR37). Learn [**How to Participate**](#!Synapse:syn25829070/wiki/610874)
+You must be registered to the challenge to access the data and you must fill out this [google form](https://forms.gle/RuNkiqKDCKbvUmR37). Learn [**How to Participate**](#!Synapse:syn25829067/wiki/610866)
