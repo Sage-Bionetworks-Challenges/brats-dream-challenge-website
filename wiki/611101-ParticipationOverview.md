@@ -45,7 +45,7 @@ ${buttonlink?text=Request Data Access&url=https://forms.gle/RuNkiqKDCKbvUmR37}
 {column}
 
 {column width=3}
-${buttonlink?text=Access the Data&url=%23%21Synapse%3Asyn18059716}
+${buttonlink?text=Access the Data&url=#!Synapse:syn25909708}
 {column} 
 
 {column width=2}
