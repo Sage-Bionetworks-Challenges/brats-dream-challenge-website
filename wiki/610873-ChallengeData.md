@@ -28,7 +28,7 @@ You must be registered to the challenge to access the data and you must fill out
 
 ## Conditions for Use
 
-- Challenge participants must abide by the guiding principles for responsible research use and data handling within the Synapse Commons Platform as described in the Synapse Governance documents and by the Challenges Official Rules.
+- Challenge participants must abide by the guiding principles for responsible research use and data handling within the Synapse Commons Platform as described in the [Synapse Governance documents](https://help.synapse.org/docs/Governance-Overview.2009597114.html#GovernanceOverview-SynapseTermsandConditionsofUse) and by the [Challenges Official Rules](https://www.synapse.org/#!Synapse:syn25829067/wiki/610867).
 
 - **Publication embargo**: Use of Challenge results in a publication by Challenge participants is permitted if it is restricted to the results of your Challenge method and your Team ranking. Additionally, you agree not to report overall Challenge results or any analysis of the overall results until the organizers and Challenge participants have jointly published (or pre-published) an overview paper on the results from the RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge and the best performing strategies used in the Challenge. You will be contacted through your Synapse-affiliated email address when this condition has been met. This information will also be posted within this Synapse project.
 
