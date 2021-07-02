@@ -16,7 +16,7 @@ In order to be fully registered for the Challenge, you must:
 ### Register for the Challenge
 
 ${jointeam?teamId=3427584&isChallenge=true&isMemberMessage=You have successfully registered for the Challenge%2E&text=Click Here to Register&isSimpleRequestButton=true&requestOpenText=Your registration is in progress%2E&successMessage=Your registration is in progress%2E}
-Click [**here**](https://www.synapse.org/#!Map:3427584) to see where the world solvers are coming from. 
+Click [**here**](https://www.synapse.org/#!Map:3427584) to see where the world solvers are coming from.
 
 ## **Step 2. Join or Create a Team**
 
@@ -41,12 +41,14 @@ You can access the Challenge data once you have registered and have become a Cer
 {column}
 
 {column width=3}
+<!-- markdownlint-disable-next-line no-bare-urls -->
 ${buttonlink?text=Request Data Access&url=https://forms.gle/RuNkiqKDCKbvUmR37}
 {column}
 
 {column width=3}
 ${buttonlink?text=Access the Data&url=#!Synapse:syn25909708}
 {column} 
+
 
 {column width=2}
 {column}
@@ -62,7 +64,7 @@ For a participant to be eligible as a consortium-level author, there are two par
 1.  A **public** Synapse Project that contains a writeup of their methods and source code.  For most Challenges, this will be submitted after the final submissions. View [**Writeup Submission**](#!Synapse:syn25829070/wiki/611105).
 1.  All submissions are due at 5PM Pacific Time of the deadline date.
 
-> If your submission will include files you need to upload to Synapse, you must be a [**Certified User**](https://docs.synapse.org/articles/accounts_certified_users_and_profile_validation.html#certified-users). 
+> If your submission will include files you need to upload to Synapse, you must be a [**Certified User**](https://docs.synapse.org/articles/accounts_certified_users_and_profile_validation.html#certified-users).
 >
 > ${buttonlink?text=Become a Certified User&url=%23%21Quiz%3A&highlight=true}
 
