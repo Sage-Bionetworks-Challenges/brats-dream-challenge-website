@@ -1,3 +1,4 @@
+
 ### [**Participation Overview**](#!Synapse:syn25829070/wiki/611101)
 
 Follow the step-by-step guide to get started and participate in the challenge.

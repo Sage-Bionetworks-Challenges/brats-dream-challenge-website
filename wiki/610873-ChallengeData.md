@@ -13,6 +13,7 @@ All BraTS mpMRI scans are available as NIfTI files (.nii.gz) and describe a) nat
 
 All the imaging datasets have been annotated manually, by one to four raters, following the same annotation protocol, and their annotations were approved by experienced neuro-radiologists. Annotations comprise the GD-enhancing tumor (ET — label 4), the peritumoral edematous/invaded tissue (ED — label 2), and the necrotic tumor core (NCR — label 1), as described both in the BraTS 2012-2013 TMI paper and in the latest BraTS summarizing paper. The ground truth data were created after their pre-processing, i.e., co-registered to the same anatomical template, interpolated to the same resolution (1 mm<sup>3</sup>) and skull-stripped.
 
+
 ### Comparison with Previous BraTS datasets
 
 This year we provide the naming convention and name mapping between the data of BraTS'21-'17, and the subjects used from the data collections of TCGA-GBM, TCGA-LGG, IvyGAP, and CPTAC-GBM, available through The Cancer Imaging Archive (TCIA) to further facilitate research beyond the directly BraTS related tasks.
@@ -56,4 +57,4 @@ However, participants are allowed to use additional public and/or private data (
 
 ## **Access**
 
-You must be registered to the challenge to access the data and you must fill out this [google form](https://forms.gle/RuNkiqKDCKbvUmR37). Learn [**How to Participate**](#!Synapse:syn25829070/wiki/610874)
+You must be registered to the challenge to access the data and you must fill out this [google form](https://forms.gle/RuNkiqKDCKbvUmR37). Learn [**How to Participate**](#!Synapse:syn25829067/wiki/610866)
