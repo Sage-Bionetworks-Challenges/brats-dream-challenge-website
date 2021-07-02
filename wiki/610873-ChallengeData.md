@@ -22,6 +22,12 @@ This year we also provide the naming convention and direct filename mapping betw
 
 ---
 
+## **Access the Data**
+
+You must be registered to the challenge to access the data and you must fill out this [google form](https://forms.gle/RuNkiqKDCKbvUmR37). Learn [**How to Participate**](#!Synapse:syn25829067/wiki/610866) and [Download the Data](#!Synapse:syn25909708)
+
+---
+
 ## Conditions for Use
 
 - Challenge participants must abide by the guiding principles for responsible research use and data handling within the Synapse Commons Platform as described in the Synapse Governance documents and by the Challenges Official Rules. 
@@ -52,9 +58,3 @@ This year we also provide the naming convention and direct filename mapping betw
 - **Note**: Challenge participants agree to cite the initial challenge pre publication manuscript (or the final publication manuscript). You will be contacted through your Synapse affiliated email when the manuscript has been released for citation.
 
 - **Note**: Use of the BraTS datasets for creating and submitting benchmark results for publication on MLPerf.org is considered non-commercial use. It is further acceptable to republish results published on MLPerf.org, as well as to create unverified benchmark results consistent with the MLPerf.org rules in other locations. Please note that you should always adhere to the BraTS data usage guidelines and cite appropriately the aforementioned publications, as well as to the terms of use required by MLPerf.org.
-
----
-
-## **Access**
-
-You must be registered to the challenge to access the data and you must fill out this [google form](https://forms.gle/RuNkiqKDCKbvUmR37). Learn [**How to Participate**](#!Synapse:syn25829067/wiki/610866) and [Download the Data](#!Synapse:syn25909708)
