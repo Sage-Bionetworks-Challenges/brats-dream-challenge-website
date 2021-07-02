@@ -20,30 +20,25 @@ This year we provide the naming convention and name mapping between the data of 
 
 ---
 
-## **Conditions for Use**
-
-> THESE ARE JUST DRAFT CONDITIONS AND ARE NOT FINAL
+## Conditions for Use
 
 - Challenge participants must abide by the guiding principles for responsible research use and data handling within the Synapse Commons Platform as described in the Synapse Governance documents and by the Challenges Official Rules.
 
-- **Publication embargo**
-- Use of Challenge results in a publication by Challenge participants is permitted if it is restricted to the results of your Challenge method and your Team ranking. Participants agree to share the manuscript with the Challenge organizers who will review it within 2 weeks and verify that it does not report overall challenge results or any analysis of the overall results as these are parts of the main Challenge Publication. Additionally, you agree not to report overall Challenge results or any analysis of the overall results. These conditions apply until the organizers publish an overview manuscript on the results from the RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge and the best performing strategies used in the Challenge. The Challenge participants will be co-authoring this overview manuscript. You will be contacted through your Synapse-affiliated email address when this condition has been met. This information will also be posted within this Synapse project.
-- Acknowledgement: Challenge participants are permitted to use, publish, and present the Challenge results, after the embargo period, provided they adhere to the "Data usage Agreement and add the following acknowledgement: "Data used in this publication were obtained as part of the RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge project through Synapse ID (syn25829067)."
+- **Publication embargo**: Use of Challenge results in a publication by Challenge participants is permitted if it is restricted to the results of your Challenge method and your Team ranking. Additionally, you agree not to report overall Challenge results or any analysis of the overall results until the organizers and Challenge participants have jointly published (or pre-published) an overview paper on the results from the RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge and the best performing strategies used in the Challenge. You will be contacted through your Synapse-affiliated email address when this condition has been met. This information will also be posted within this Synapse project.
 
-- **Use of Data Beyond BraTS**
-Participants are NOT allowed to use additional public and/or private data (from their own institutions) for extending the provided BraTS data, for the training of the algorithm chosen to be ranked. Similarly, using models that were pretrained on such datasets is NOT allowed. This is due to our intentions to provide a fair comparison among the participating methods.
-However, participants are allowed to use additional public and/or private data (from their own institutions), only if for scientific publication purposes and they explicitly mention this in their submitted manuscripts and also report results using only the BraTS'21 data to discuss potential result differences.
+- **Acknowledgement**: Challenge participants are permitted to use, publish and present the Challenge results, after the embargo period, provided they acknowledge the BraTS challenge organizing members as follows: "Data used in this publication were obtained as part of the RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge project through Synapse ID (syn25829067)." 
 
+- **Use of Data Beyond BraTS**: Participants are NOT allowed to use additional public and/or private data (from their own institutions) for extending the provided BraTS data, for the training of the algorithm chosen to be ranked. Similarly, using models that were pretrained on such datasets is NOT allowed. This is due to our intentions to provide a fair comparison among the participating methods. However, participants are allowed to use additional public and/or private data (from their own institutions), only if for scientific publication purposes and they explicitly mention this in their submitted manuscripts and also report results using only the BraTS'21 data to discuss potential result differences.
 
 - **Data Usage Agreement / Citations**
 
-    You are free to use and/or refer to the BraTS datasets in your own research, provided that you always cite the following three manuscripts:
+    You are free to use and/or refer to the BraTS datasets in your own research, provided that you always cite the flagship manuscript (published or pre-published) resulting from the challenge as well as the following three manuscripts:
 
-    [1] "The RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) challenge", arXiv preprint, 2021 <!--to be updated-->
+    [1] "The RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) challenge", arXiv preprint, 2021
 
-    [2] B. H. Menze, A. Jakab, S. Bauer, J. Kalpathy-Cramer, K. Farahani, J. Kirby, et al. "The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)", IEEE Transactions on Medical Imaging 34(10), 1993-2024 (2015) DOI: 10.1109/TMI.2014.2377694
-
-    [3] S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J.S. Kirby, et al., "Advancing The Cancer Genome Atlas glioma MRI collections with expert segmentation labels and radiomic features", Nature Scientific Data, 4:170117 (2017) DOI: 10.1038/sdata.2017.117
+    [2] B. H. Menze, A. Jakab, S. Bauer, J. Kalpathy-Cramer, K. Farahani, J. Kirby, et al. "The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)", IEEE Transactions on Medical Imaging 34(10), 1993-2024 (2015) DOI: 10.1109/TMI.2014.2377694 
+    
+    [3] S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J.S. Kirby, et al., "Advancing The Cancer Genome Atlas glioma MRI collections with expert segmentation labels and radiomic features", Nature Scientific Data, 4:170117 (2017) DOI: 10.1038/sdata.2017.117 
 
     In addition, if there are no restrictions imposed from the journal/conference you submit your paper about citing "Data Citations", please be specific and also cite the following:
 
@@ -51,7 +46,9 @@ However, participants are allowed to use additional public and/or private data (
 
     [5] S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J. Kirby, et al., "Segmentation Labels and Radiomic Features for the Pre-operative Scans of the TCGA-LGG collection", The Cancer Imaging Archive, 2017. DOI: 10.7937/K9/TCIA.2017.GJQ7R0EF
 
-- Note: Use of the BraTS datasets for creating and submitting benchmark results for publication on MLPerf.org is considered non-commercial use. It is further acceptable to republish results published on MLPerf.org, as well as to create unverified benchmark results consistent with the MLPerf.org rules in other locations. Please note that you should always adhere to the BraTS data usage guidelines and cite appropriately the aforementioned publications, as well as to the terms of use required by MLPerf.org.
+- **Note**: Challenge participants agree to cite the initial challenge pre publication manuscript (or the final publication manuscript). You will be contacted through your Synapse affiliated email when the manuscript has been released for citation.
+
+- **Note**: Use of the BraTS datasets for creating and submitting benchmark results for publication on MLPerf.org is considered non-commercial use. It is further acceptable to republish results published on MLPerf.org, as well as to create unverified benchmark results consistent with the MLPerf.org rules in other locations. Please note that you should always adhere to the BraTS data usage guidelines and cite appropriately the aforementioned publications, as well as to the terms of use required by MLPerf.org.
 
 ---
 
