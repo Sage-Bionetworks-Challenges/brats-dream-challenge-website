@@ -24,7 +24,7 @@ This year we also provide the naming convention and direct filename mapping betw
 
 ## **Access the Data**
 
-You must be registered to the challenge to access the data and you must fill out this [google form](https://forms.gle/RuNkiqKDCKbvUmR37). Learn [**How to Participate**](#!Synapse:syn25829067/wiki/610866) and [Download the Data](#!Synapse:syn25909708)
+You must be registered to the challenge to access the data and you must fill out this [google form](https://forms.gle/RuNkiqKDCKbvUmR37). Learn [**How to Participate**](#!Synapse:syn25829067/wiki/610866) and [Download the Data](#!Synapse:syn25953134)
 
 ---
 
