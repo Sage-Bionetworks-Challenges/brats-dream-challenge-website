@@ -1,6 +1,25 @@
 <!-- markdownlint-disable-next-line first-line-h1 -->
 ${toc}
 
+## **Access the Training Data**
+
+Complete the follow steps to gain access to the training data.
+You can find the description and conditions for use for the training data below.
+
+1. Register for the challenge
+
+${jointeam?teamId=3427584&isChallenge=true&isMemberMessage=You have successfully registered for the Challenge%2E&text=Click Here to Register&isSimpleRequestButton=true&requestOpenText=Your registration is in progress%2E&successMessage=Your registration is in progress%2E}
+
+2. Complete the data access request form
+
+${buttonlink?text=Request Data Access&url=https://forms.gle/RuNkiqKDCKbvUmR37}
+
+3. Download the Training Data
+
+${buttonlink?text=Access the Data&url=#!Synapse:syn25953134}
+
+---
+
 ## **Description**
 
 Ample multi-institutional routine clinically-acquired multi-parametric MRI (mpMRI) scans of glioma, with pathologically confirmed diagnosis and available MGMT promoter methylation status, are used as the training, validation, and testing data for this year’s BraTS challenge.
@@ -17,12 +36,6 @@ All the imaging datasets have been annotated manually, by one to four raters, fo
 ### Comparison with Previous BraTS datasets
 
 This year we provide the naming convention and name mapping between the data of BraTS'21-'17, and the subjects used from the data collections of TCGA-GBM, TCGA-LGG, IvyGAP, and CPTAC-GBM, available through The Cancer Imaging Archive (TCIA) to further facilitate research beyond the directly BraTS related tasks.
-
----
-
-## **Access the Data**
-
-You must be registered to the challenge to access the data and you must fill out this [google form](https://forms.gle/RuNkiqKDCKbvUmR37). Learn [**How to Participate**](#!Synapse:syn25829067/wiki/610866) and [Download the Data](#!Synapse:syn25953134)
 
 ---
 

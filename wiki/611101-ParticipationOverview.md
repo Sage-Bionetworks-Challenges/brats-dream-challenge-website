@@ -34,27 +34,20 @@ You may also request to join an existing team that is already registered for thi
 
 ## **Step 3. Access the Data**
 
-You can access the Challenge data once you have registered and have become a Certified User, in addition to accepting all the conditions of use of the data and filling out this [google form](https://forms.gle/RuNkiqKDCKbvUmR37). Make sure you register for the challenge first. Learn more about the [**Data**](#!Synapse:syn25829070/wiki/611091) available.
-{row}
+Complete the follow steps to gain access to the training data.
+You can find the description and conditions for use for the training data below.
 
-{column width=1}
-{column}
+1. Register for the challenge and accept the terms and conditions.
 
-{column width=3}
-<!-- markdownlint-disable-next-line no-bare-urls -->
+${jointeam?teamId=3427584&isChallenge=true&isMemberMessage=You have successfully registered for the Challenge%2E&text=Click Here to Register&isSimpleRequestButton=true&requestOpenText=Your registration is in progress%2E&successMessage=Your registration is in progress%2E}
+
+2. Complete the data access request form.
+
 ${buttonlink?text=Request Data Access&url=https://forms.gle/RuNkiqKDCKbvUmR37}
-{column}
 
-{column width=3}
+3. Download the training data.
+
 ${buttonlink?text=Access the Data&url=#!Synapse:syn25953134}
-{column} 
-
-
-{column width=2}
-{column}
-
-{row}
-
 
 ## **Step 4. Prepare a Submission**
 
