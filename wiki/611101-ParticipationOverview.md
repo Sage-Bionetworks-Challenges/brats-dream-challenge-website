@@ -37,15 +37,18 @@ You may also request to join an existing team that is already registered for thi
 Complete the follow steps to gain access to the training data.
 You can find the description and conditions for use for the training data below.
 
-1. Register for the challenge and accept the terms and conditions.
+<!-- markdownlint-disable-next-line ol-prefix -->
+1. Register for the challenge
 
 ${jointeam?teamId=3427584&isChallenge=true&isMemberMessage=You have successfully registered for the Challenge%2E&text=Click Here to Register&isSimpleRequestButton=true&requestOpenText=Your registration is in progress%2E&successMessage=Your registration is in progress%2E}
 
-2. Complete the data access request form.
-
+<!-- markdownlint-disable-next-line ol-prefix -->
+2. Complete the data access request form
+<!-- markdownlint-disable-next-line no-bare-urls -->
 ${buttonlink?text=Request Data Access&url=https://forms.gle/RuNkiqKDCKbvUmR37}
 
-3. Download the training data.
+<!-- markdownlint-disable-next-line ol-prefix -->
+3. Download the Training Data
 
 ${buttonlink?text=Access the Data&url=#!Synapse:syn25953134}
 
