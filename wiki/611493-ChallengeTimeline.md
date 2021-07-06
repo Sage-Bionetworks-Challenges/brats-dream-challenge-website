@@ -3,7 +3,16 @@
 
 ### Training Data availability
 
-Register for this year's challenge Task 1 and then fill out this [google form](https://forms.gle/FRabNXU3LL5trypm9), to get access to the skull-stripped, and annotated training data.
+Complete the follow steps to gain access to the skull-stripped, and annotated training data.
+You can find the description and conditions for use for the training data below.
+
+1. **Register for the challenge.** You must be registered before completing the next steps.
+    ${jointeam?teamId=3427584&isChallenge=true&isMemberMessage=You have successfully registered for the Challenge%2E&text=Click Here to Register&isSimpleRequestButton=true&requestOpenText=Your registration is in progress%2E&successMessage=Your registration is in progress%2E}
+2. **Complete the data access request form.** You will receive a confirmation email when you are given access to the training data.
+    <!-- markdownlint-disable-next-line no-bare-urls -->
+    ${buttonlink?text=Request Data Access&url=https://forms.gle/RuNkiqKDCKbvUmR37}
+3. **Download the Training Data.**
+    ${buttonlink?text=Access the Data&url=#!Synapse:syn25953134}
 
 ### Validation Data availability
 

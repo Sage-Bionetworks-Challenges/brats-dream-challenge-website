@@ -34,7 +34,7 @@ You may also request to join an existing team that is already registered for thi
 
 ## **Step 3. Access the Data**
 
-Complete the follow steps to gain access to the training data. You can find the data description and conditions for use at [Challenge Data](#!Synapse:syn25829067/wiki/610865).
+Complete the follow steps to gain access to the training data. You can find the data description and conditions for use at [Challenge Data](#!Synapse:syn25829070/wiki/610873).
 
 1. **Register for the challenge.** You must be registered before completing the next steps.
     ${jointeam?teamId=3427584&isChallenge=true&isMemberMessage=You have successfully registered for the Challenge%2E&text=Click Here to Register&isSimpleRequestButton=true&requestOpenText=Your registration is in progress%2E&successMessage=Your registration is in progress%2E}
