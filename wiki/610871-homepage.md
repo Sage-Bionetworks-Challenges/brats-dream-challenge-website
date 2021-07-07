@@ -142,6 +142,8 @@ Learn more about [**How to Participate**](#!Synapse:syn25829070/wiki/610874) to 
 | Thomas Schaffter | Sage Bionetworks | Challenge Evaluation Co-Lead |
 | Thomas Yu | Sage Bionetworks | Challenge Evaluation Infrastructure |
 | James Eddy | Sage Bionetworks | Challenge Evaluation Co-Director |
+| Jiaxin Zheng | Sage Bionetworks | Challenge Evaluation Project Manager | 
+| Rong Chai | Sage Bionetworks | Challenge Evaluation Infrastructure | 
 | Keyvan Farahani | NIH/NCI | Co-Organizer |
 | Adam Flanders | Thomas Jefferson University Hospital | Co-Organizer |
 | Felipe C. Kitamura |	Diagnósticos da América SA (DASA) | Co-Organizer|
