@@ -49,7 +49,7 @@ This year we provide the naming convention and name mapping between the data of 
 
     You are free to use and/or refer to the BraTS datasets in your own research, provided that you always cite the flagship manuscript (published or pre-published) resulting from the challenge as well as the following three manuscripts:
 
-    [1] "The RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) challenge", arXiv preprint, 2021
+    [1] U.Baid, et al., The RSNA-ASNR-MICCAI BraTS 2021 Benchmark on Brain Tumor Segmentation and Radiogenomic Classification, arXiv:2107.02314, 2021.
 
     [2] B. H. Menze, A. Jakab, S. Bauer, J. Kalpathy-Cramer, K. Farahani, J. Kirby, et al. "The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)", IEEE Transactions on Medical Imaging 34(10), 1993-2024 (2015) DOI: 10.1109/TMI.2014.2377694 
     
