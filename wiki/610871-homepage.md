@@ -133,6 +133,7 @@ Learn more about [**How to Participate**](#!Synapse:syn25829070/wiki/610874) to 
 | Name |  Institution | Role |
 | --- | --- |--- |
 | Spyridon Bakas | University of Pennsylvania | Lead & Co-Director |
+| Keyvan Farahani | National Cancer Institute | Co-Director |
 | Ujjwal Baid | University of Pennsylvania | Co-Organizer |
 | Evan Calabrese | University of California San Francisco | Co-Organizer |
 | Errol Colak | University of Toronto | Co-Organizer |
@@ -144,7 +145,6 @@ Learn more about [**How to Participate**](#!Synapse:syn25829070/wiki/610874) to 
 | James Eddy | Sage Bionetworks | Challenge Evaluation Co-Director |
 | Jiaxin Zheng | Sage Bionetworks | Challenge Evaluation Project Manager | 
 | Rong Chai | Sage Bionetworks | Challenge Evaluation Infrastructure | 
-| Keyvan Farahani | NIH/NCI | Co-Organizer |
 | Adam Flanders | Thomas Jefferson University Hospital | Co-Organizer |
 | Felipe C. Kitamura |	Diagnósticos da América SA (DASA) | Co-Organizer|
 | Bjoern Menze | University of Zurich | Co-Organizer |
