@@ -38,8 +38,8 @@ The **Brain Tumor Segmentation (BraTS) Challenge** celebrates its 10th anniversa
 
 The **RSNA-ASNR-MICCAI BraTS 2021 challenge** utilizes multi-institutional multi-parametric magnetic resonance imaging (mpMRI) scans, and focuses on (**Task 1**) the evaluation of state-of-the-art methods for the segmentation of intrinsically heterogeneous brain glioblastoma sub-regions in mpMRI scans. Furthermore, this year's challenge also focuses on (**Task 2**) the evaluation of classification methods to predict the MGMT promoter methylation status at pre-operative baseline scans. Participants are free to choose whether they want to focus only on one or both tasks.
 
-<!-- > **NOTE:** **Task 2** will be hosted by Kaggle. Participants interested in submitting to this task should visit **this page**(add link here).
--->
+**NOTE:** **Task 2** is being hosted by Kaggle. Participants interested in submitting to this task should visit [**this page**](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview).
+
 {column}
  {column width=4} 
 <font size = 3> **Getting started** </font>
@@ -94,6 +94,7 @@ Learn more about the [**Challenge Data**](#!Synapse:syn25829070/wiki/610873)
 | 7 Jul | Training phase start (Release of training data + associated ground truth). |
 | 2 Aug | Validation phase (Release of validation data. Hidden ground truth). |
 | 13 Aug | Submission of short papers, reporting method & preliminary results. |
+| 15 Aug | Begin accepting final model Docker containers. |
 | 27 Aug | Contacting methods top-ranked in validation phase, to prepare slides for oral presentation at MICCAI. |
 | 4 Oct | Challenge at MICCAI 2021. Presentations on validation phase results. |
 | 20-30 Oct | Final ranking phase on unseen testing data. |
@@ -142,6 +143,7 @@ Learn more about [**How to Participate**](#!Synapse:syn25829070/wiki/610874) to 
 | Satyam Ghodasara | University of Pennsylvania | Clinical Evaluator & Approver Coordinator |
 | Thomas Schaffter | Sage Bionetworks | Challenge Evaluation Co-Lead |
 | Thomas Yu | Sage Bionetworks | Challenge Evaluation Infrastructure |
+| Verena Chung | Sage Bionetworks | Challenge Evaluation Infrastructure |
 | James Eddy | Sage Bionetworks | Challenge Evaluation Co-Director |
 | Jiaxin Zheng | Sage Bionetworks | Challenge Evaluation Project Manager | 
 | Rong Chai | Sage Bionetworks | Challenge Evaluation Infrastructure | 

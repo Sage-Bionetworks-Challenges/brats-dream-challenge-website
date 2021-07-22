@@ -9,7 +9,7 @@ The participants are called to address this task by using the provided clinicall
 The provided segmentation labels have values of 1 for NCR, 2 for ED, 4 for ET, and 0 for everything else.
 The participants are called to upload their method in a containerized way for evaluation (Submission Tutorial).
 
-> See the [RSNA/ASNR/MICCAI BraTS homepage](https://www.med.upenn.edu/cbica/brats2021/) for details about task 2.
+> **Note**: Task 2 is being hosted on [Kaggle](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview). See the [Kaggle](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview) page or the [RSNA/ASNR/MICCAI BraTS homepage](https://www.med.upenn.edu/cbica/brats2021/) for details about task 2.
 
 ### Challenge Data
 
