@@ -14,6 +14,11 @@ You can find the description and conditions for use for the training data below.
 3. **Download the Training Data.**
     ${buttonlink?text=Access the Data&url=#!Synapse:syn25953134}
 
+## **Download the Validation Data**
+
+If you have completed the steps above, you should have access to the Validation Data.
+${buttonlink?text=Download Validation Data&url=#!Synapse:syn26017015}
+
 ---
 
 ## **Description**
