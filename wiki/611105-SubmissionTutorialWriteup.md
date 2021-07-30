@@ -77,4 +77,6 @@ Once the submissions are complete you will be invited to lightly review 2-3 pape
 - Is there anything missing in the methodological description?
 - Is there anything that is currently missing, and the authors can do in a week to improve their paper? 
 
-In case you do not want your paper published please let us know and we will not ask you to review any other papers. Please note that if you do not want your paper published as part of the LNCS proceedings, then you will also not be included as a co-author of the [BraTS Challenge journal manuscript](https://arxiv.org/abs/2107.02314) submission.
+### Publication Withdrawal
+
+In case you do not want your paper published please let us know (BraTS2021ChallengeOrganizers@synapse.org) and we will not ask you to review any other papers. Please note that if you do not want your paper published as part of the LNCS proceedings, then you will also not be included as a co-author of the [BraTS Challenge journal manuscript](https://arxiv.org/abs/2107.02314) submission.
