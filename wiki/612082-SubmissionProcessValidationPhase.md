@@ -21,7 +21,7 @@ ${toc}
 ## **2. Creating your Segmentation Files**
 
 - Zip each of the NIfTI files, such that the file names end in `*.nii.gz`.
-- Filenames should be named using the patient ID, given by the folder name containing the 4 modalities for each patient. In other words, for subjects that you were given files named ID_t1.nii.gz, ID_t2.nii.gz, etc., the individual segmentations should be named ID.nii.gz
+- Filenames should be named using the case ID, given by the folder name containing the 4 modalities for each patient. In other words, for subjects that you were given files named ID_t1.nii.gz, ID_t2.nii.gz, etc., the individual segmentations should be named ID.nii.gz
 - All of the individual zipped NIfTI files must be contained inside of a single zip or tarball archive. When you make your submission, **you must submit this zipped archive**.
 
 ---
