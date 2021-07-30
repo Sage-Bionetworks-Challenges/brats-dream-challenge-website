@@ -5,6 +5,7 @@ This page will assist you in submitting a Docker container to a challenge queue.
 ${toc}
 
 ---
+
 > ### During the Validation phase (August 2 - August 20), you are only expected to submit your segementation files. We will **not be accepting** docker containers until August 20.
 
 ## **1. Create a Synapse Project**
