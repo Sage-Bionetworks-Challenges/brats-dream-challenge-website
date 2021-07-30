@@ -27,6 +27,7 @@ ${toc}
 ---
 
 ## **3. Upload your Submission Tarball**
+
 > In order to upload your tarball, you will need to be a [**Certified User**](https://docs.synapse.org/articles/accounts_certified_users_and_profile_validation.html#certified-users).
 >
 >${buttonlink?text=Become a Certified User&url=%23%21Quiz%3A&highlight=true}
