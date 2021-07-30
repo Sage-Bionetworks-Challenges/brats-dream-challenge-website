@@ -15,15 +15,13 @@ ${toc}
 
 ---
 
-Upload your segmentation labels in .nii.gz format. Note that each file should be named using the patient ID, given by the folder name containing the 4 modalities for each patient. In other words, for subjects that you were given files named ID_t1.nii.gz, ID_t2.nii.gz, etc., the uploaded segmentations should be named ID.nii.gz
+## **2. Creating your Segmentation Files**
 
-## **2. Creating your Submission Files**
-
-During the Validation phase (August 2 - August 13), you can submit the predictions from your trained models on the validation data (To Be Released on August 2).
+During the Validation phase (August 2 - August 13), you can submit your segmentations files from the validation data (To Be Released on August 2).
 
 - Be sure to zip each of the NIfTI files, such that the file names end in `*.nii.gz`.
-- Filenames should contain the case number for which they are predictions. For example, `ex_###.nii.gz` where `###` is the appropriate case number.
-- All of the individual NIfTI files must be contained inside of a zip or tarball archive. When you make your submission, you must submit this zipped archive.
+- Filenames should be named using the patient ID, given by the folder name containing the 4 modalities for each patient. In other words, for subjects that you were given files named ID_t1.nii.gz, ID_t2.nii.gz, etc., the individual segmentations should be named ID.nii.gz
+- All of the individual NIfTI files must be contained inside of a zip or tarball archive. When you make your submission, **you must submit this zipped archive**.
 
 
 
