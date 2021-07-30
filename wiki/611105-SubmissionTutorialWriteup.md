@@ -18,7 +18,7 @@ Submit your paper to the [BrainLes CMT submission system](https://cmt3.research.
 
 ## **2. Reporting your Team ID**
 
-When you submit to the BrainLes CMT submission system, you will be asked for your Synapse Team ID. If you submitted as part of a team, you can use your Synapse Team ID, if you submitted as an individual, you can use your Synapse User ID.
+When you submit to the BrainLes CMT submission system, you will be asked for your Synapse Team ID. If you submitted as part of a team, you can use your Synapse Team ID, if you submitted as an individual, you can use your Synapse User ID. Only users who report their Team ID or User ID will be able to submit their docker containers for final submission and validation.
 
 ### Finding your Team ID
 
