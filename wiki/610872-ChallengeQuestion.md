@@ -13,11 +13,11 @@ The participants are called to upload their method in a containerized way for ev
 
 ### Challenge Data
 
-> Gain access to the [Training Data](#!Synapse:syn25829070/wiki/610873)
+> Gain access to the [Training and Validation Data](#!Synapse:syn25829070/wiki/610873)
 
 ### Submission Format
 
-> See [Submission Tutorial (Docker)](#!Synapse:syn25829070/wiki/611103)
+> See [Validation Phase Submissions](#!Synapse:syn25829070/wiki/612082)
 
 ---
 
