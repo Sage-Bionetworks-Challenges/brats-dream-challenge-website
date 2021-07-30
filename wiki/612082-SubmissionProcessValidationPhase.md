@@ -15,6 +15,7 @@ ${toc}
 
 ---
 
+Upload your segmentation labels in .nii.gz format. Note that each file should be named using the patient ID, given by the folder name containing the 4 modalities for each patient. In other words, for subjects that you were given files named ID_t1.nii.gz, ID_t2.nii.gz, etc., the uploaded segmentations should be named ID.nii.gz
 
 ## **2. Creating your Submission Files**
 
