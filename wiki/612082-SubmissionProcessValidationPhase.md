@@ -19,6 +19,7 @@ ${toc}
 ## **2. Creating your Submission Files**
 
 During the Validation phase (August 2 - August 13), you can submit the predictions from your trained models on the validation data (To Be Released on August 2).
+
 - Be sure to zip each of the NIfTI files, such that the file names end in `*.nii.gz`.
 - Filenames should contain the case number for which they are predictions. For example, `ex_###.nii.gz` where `###` is the appropriate case number.
 - All of the individual NIfTI files must be contained inside of a zip or tarball archive. When you make your submission, you must submit this zipped archive.
