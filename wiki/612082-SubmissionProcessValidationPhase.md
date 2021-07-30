@@ -1,4 +1,5 @@
 <!-- markdownlint-disable no-emphasis-as-header -->
+<!-- markdownlint-disable no-trailing-punctuation -->
 
 <!-- markdownlint-disable-next-line first-line-h1 -->
 This page will assist you in submitting a Docker container to a challenge queue.
