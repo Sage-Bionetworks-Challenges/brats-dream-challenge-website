@@ -46,29 +46,41 @@ Complete the follow steps to gain access to the training data. You can find the 
 
 ## **Step 4. Prepare a Submission**
 
-For a participant to be eligible as a consortium-level author, there are two parts to the challenge submission:
+There are two submission phases to the BraTS 2021 Challenge: the **Validation Phase** and **Final Submission Phase**.
 
-1.  An executable Docker container that contains the participant's model or a prediction file.   View [**File Submission**](#!Synapse:syn25829070/wiki/611104) and [**Docker Submission**](#!Synapse:syn25829070/wiki/611103).
-1.  A **public** Synapse Project that contains a writeup of their methods and source code.  For most Challenges, this will be submitted after the final submissions. View [**Writeup Submission**](#!Synapse:syn25829070/wiki/611105).
-1.  All submissions are due at 5PM Pacific Time of the deadline date.
+### Validation Phase
 
-> If your submission will include files you need to upload to Synapse, you must be a [**Certified User**](https://docs.synapse.org/articles/accounts_certified_users_and_profile_validation.html#certified-users).
+During the validation, we will be only accepting segmentation files as submissions. Please see the  
+Follow the instructions at the [Submission Process (Validation Phase)](#!Synapse:syn25829070/wiki/612082) page.
+
+> Since your submission will include files you need to upload to Synapse, you must be a [**Certified User**](https://docs.synapse.org/articles/accounts_certified_users_and_profile_validation.html#certified-users).
 >
 > ${buttonlink?text=Become a Certified User&url=%23%21Quiz%3A&highlight=true}
 
-## **Step 5. Submission**
+### Final Submission Phase
 
-1. Make sure to indicate whether you are submitting as an individual or a team. If submitting as a team, identify the team. _Once you have submitted as a Team, you may not submit as an individual and vice versa._
+During the final submission phase, in order for a participant to be eligible as a consortium-level author, there are two parts to the final submission:
+
+1.  An executable Docker container that contains the participant's model.   View [**Docker Submission**](#!Synapse:syn25829070/wiki/611103). Final containers are due August 27 at 23:59 Eastern Time.
+1.  A short paper submission to the [**BrainLes CMT submission system**](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FBrainLes2021%2F).  View [**Writeup Submission**](#!Synapse:syn25829070/wiki/611105). Short papers are due August 13 at 23:59 Eastern Time.
+
+## **Step 5. Submission**
+<!-- 1. Make sure to indicate whether you are submitting as an individual or a team. If submitting as a team, identify the team. _Once you have submitted as a Team, you may not submit as an individual and vice versa._
 1. For the writeup submission, AFTER your final challenge submission, update the writeup's sharing settings by going to **Project Settings** > **Project Sharing Settings**, then clicking on the **Make Public** button (at the bottom of the popup screen). The following permissions will be enabled to your Synapse Project:
 
 ${image?fileName=permissions%2Epng&align=None&scale=100&responsive=true&altText=Public permissions}
 
 Read more [**here**](https://docs.synapse.org/articles/access_controls.html#how-to-share-projects) about how to share things in Synapse.
 
-${evalsubmit?projectId=syn25829070&unavailableMessage=Please register to make a submission.&buttonText=Submit to the challenge}
+${evalsubmit?projectId=syn25829070&unavailableMessage=Please register to make a submission.&buttonText=Submit to the challenge} -->
+
+> ####! **All submissions are due at 23:59 Eastern Time of the deadline date.**
+
+When you are ready to submit, go to your project containing the submission file and/or Docker, and navigate to the file or Docker page.  Select the Tools button in the upper-right corner (either **Files Tools** or **Docker Repository Tools**) and select **Submit to Challenge**.   Make sure to indicate whether you are submitting as an individual or a team. If submitting as a team, identify the team. _Once you have submitted as a Team, you may not submit as an individual and vice versa._
+
+For more information, go to [Submission Process (Validation Phase)](#!Synapse:syn25829070/wiki/612082) and [Submission Tutorial (Docker)](#!Synapse:syn25829070/wiki/611103).
 
 After you submit, expect an email either indicating that your submission was submitted successfully or that your entry is considered invalid because of specific problems with your entry. If there is any problem with your submitted entry, a description of the problems (e.g. missing items) will be sent to you. Use this information to modify and resubmit your entry. These emails will be sent to the email address saved in your Synapse profile -- if you have not changed it, it will be the same email you used during registration. If you do not receive this email, check your spam folder or your notification settings.
-
 
 ## **Step 6. Share Ideas and Ask Questions**
 

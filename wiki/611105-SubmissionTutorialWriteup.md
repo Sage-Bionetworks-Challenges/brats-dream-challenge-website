@@ -6,7 +6,7 @@ ${toc}
 
 ---
 
-> ### Deadline for short paper submission is August 13
+> ### Deadline for short paper submission is August 13 @ 23:59 Eastern Time
 
 ## **1. Writing the Short Paper**
 
