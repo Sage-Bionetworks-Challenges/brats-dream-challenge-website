@@ -27,7 +27,7 @@ ${toc}
 ## **3. Upload your Submission Tarball**
 
 Go to your `BraTS DREAM Challenge <Your team name>` project and upload your tarball to the `Files` tab.
-${image?fileName=FileUpload%2Epng&align=Right&scale=50&responsive=true&altText=Uploading your zip files}
+${image?synapseId=syn26016673&align=Right&scale=50&responsive=true&altText=Uploading your zip files}
 
 ---
 
@@ -35,5 +35,5 @@ ${image?fileName=FileUpload%2Epng&align=Right&scale=50&responsive=true&altText=U
 
 <!-- ${evalsubmit?projectId=syn25829070&unavailableMessage=Please register to make a submission.&buttonText=Submit to the challenge} -->
 
-${image?fileName=FileSelection%2Epng&align=Right&scale=50&responsive=true&altText=Submitting a File}
+${image?synapseId=syn26016672&align=Right&scale=50&responsive=true&altText=Submitting a File}
 To submit your predictions tarball, navigate to the tarball you uploaded on Synapse and click on the **File Tools** button in the upper-right corner.  Select **Submit File to Challenge** from the options, then follow the prompts. Select the `BraTS Challenge - Task 1` challenge.

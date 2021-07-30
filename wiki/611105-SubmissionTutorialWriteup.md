@@ -6,37 +6,31 @@ ${toc}
 
 ---
 
-## **1.  Create a writeup**
-   
-- Make a Synapse project.  Make a Synapse project.  Ideally, this would be the same project you had used when you uploaded prediction files/Docker image for submission.  Read more about creating [**Synapse projects**](https://docs.synapse.org/articles/getting_started.html#project-and-data-management-on-synapse).
-- Add a Wiki page to your project.  View the [**DREAM Challenge Writeup Template**](syn2351771) for an example.  Read more about creating [**Wiki pages**](https://docs.synapse.org/articles/getting_started.html#adding-a-wiki-to-your-project).
-- For a writeup to be considered valid, _it must be accessible by the public_ (by default, all new Synapse projects are private). To update your writeup's sharing settings, navigate to **Project Settings** followed by **Project Sharing Settings**, then click on the **Make Public** button at the bottom of the popup screen.  The following settings will be enabled to your Project:
+> ### Deadline for short paper submission is August 13
 
-${image?fileName=permissions%2Epng&align=None&scale=100&responsive=true&altText=Public permissions}
+## **1.  Writing and Submitting Short Papers**
 
-Read more about [**sharing settings**](https://docs.synapse.org/articles/access_controls.html#how-to-share-projects).
+Participants will have to submit a short paper (8-10 LNCS pages — together with the [LNCS Consent to Publish](https://resource-cms.springernature.com/springer-cms/rest/v1/content/15433008/data/Contract_Book_Contributor_Consent_to_Publish_LNCS_SIP) form), describing their segmentation method and results. 
 
-->${video?mp4SynapseId=syn20685869}<-
-->_Creating a project on Synapse_<-
+Submit your paper to the [BrainLes CMT submission system](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FBrainLes2021%2F), and make sure you choose BRATS as the "Track". Please ensure that you include the appropriate citations, mentioned at the bottom of the [Challenge Data](#!Synapse:syn25829070/wiki/610873) page in the "Conditions for Use" section. This unified scheme should allow for appropriate preliminary comparisons and the creation of the MICCAI BrainLes conference proceedings. Participants are allowed to submit longer papers to the MICCAI 2021 BrainLes Workshop, by choosing "BrainLes" as the "Track". BraTS papers will be part of the BrainLes workshop proceedings distributed by Springer LNCS. All paper submissions should use the LNCS template, available both in LaTeX and in MS Word format, directly from Springer ([link here](https://www.springer.com/us/computer-science/lncs/conference-proceedings-guidelines)).
 
 ---
 
-## **2.  Submit the writeup**
+## **2.  Reporting your Team ID**
 
-Follow instructions after clicking the **Submit to the challenge** button and find your project to submit!  Note that a final submission will only be considered if **an associating writeup is submitted before the writeup deadline.**
-> ####! Important!
-> You **must submit the writeup as the user or team you were on when you submitted  the final submission**; otherwise, the writeup WILL NOT BE LINKED to the final submission, thus disqualifying you and/or the team from becoming consortium-level author(s).
+When you submit to the BrainLes CMT submission system, you will be asked for your Synapse Team ID. If you submitted as part of a team, you can use your Synapse Team ID, if you submitted as an individual, you can use your Synapse User ID.
 
-${evalsubmit?projectId=syn25829070&unavailableMessage=Please register to make a submission.&buttonText=Submit to the challenge}
+### Finding your Team ID
 
-->${video?mp4SynapseId=syn20685920}<-
-->_Submitting a writeup project_<-
+1. Using the upper-right corner profile menu, select `Teams`.
+${image?synapseId=syn26016690&align=Right&scale=50&responsive=true&altText=Selecting Teams}
+2. From your Teams, select the one that is registered to the BraTS 2021 Challenge.
+3. In the url on your Team page, the number after `Team:` will be the Synapse Team ID you need to report to the submission system.
+${image?synapseId=syn26016691&align=Right&scale=50&responsive=true&altText=Selecting Profile}
 
+### Finding your User ID
 
----
-
-## **3. Submit abstract for the DREAM conference**
-
-Every year, top performers are invited to present at the annual DREAM conference.  To do so, the top performers will need to provide abstracts into the following Google form. This way, we can submit these abstracts to the conference.
-
-${buttonlink?text=Submit Abstract&url=https://forms%2Egle/nAidPSArJbHphdkQ9&highlight=true}
+1. Using the upper-right corner profile menu, select `Profile`.
+${image?synapseId=syn26016689&align=Right&scale=50&responsive=true&altText=Finding Team ID}
+2. In the url on your profile page, the number after `Profile:` will be the Synapse User ID you need to report to the submission system.
+${image?synapseId=syn26016692&align=Right&scale=50&responsive=true&altText=Finding User ID}
