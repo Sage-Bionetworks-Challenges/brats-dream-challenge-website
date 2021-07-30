@@ -65,6 +65,7 @@ During the final submission phase, in order for a participant to be eligible as 
 1.  A short paper submission to the [**BrainLes CMT submission system**](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FBrainLes2021%2F).  View [**Writeup Submission**](#!Synapse:syn25829070/wiki/611105). Short papers are due August 13 at 23:59 Eastern Time.
 
 ## **Step 5. Submission**
+
 <!-- 1. Make sure to indicate whether you are submitting as an individual or a team. If submitting as a team, identify the team. _Once you have submitted as a Team, you may not submit as an individual and vice versa._
 1. For the writeup submission, AFTER your final challenge submission, update the writeup's sharing settings by going to **Project Settings** > **Project Sharing Settings**, then clicking on the **Make Public** button (at the bottom of the popup screen). The following permissions will be enabled to your Synapse Project:
 
