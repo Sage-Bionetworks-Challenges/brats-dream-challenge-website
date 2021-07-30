@@ -28,8 +28,8 @@ ${toc}
 
 ## **3. Upload your Submission Tarball**
 
-Go to your `BraTS DREAM Challenge <Your team name>` project and upload your tarball to the `Files` tab.
 ${image?synapseId=syn26016673&align=Right&scale=50&responsive=true&altText=Uploading your zip files}
+Go to your `BraTS DREAM Challenge <Your team name>` project and upload your tarball to the `Files` tab.
 
 ---
 

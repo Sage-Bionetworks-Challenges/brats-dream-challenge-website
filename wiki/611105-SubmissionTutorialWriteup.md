@@ -8,7 +8,7 @@ ${toc}
 
 > ### Deadline for short paper submission is August 13
 
-## **1.  Writing and Submitting Short Papers**
+## **1. Writing and Submitting Short Papers**
 
 Participants will have to submit a short paper (8-10 LNCS pages — together with the [LNCS Consent to Publish](https://resource-cms.springernature.com/springer-cms/rest/v1/content/15433008/data/Contract_Book_Contributor_Consent_to_Publish_LNCS_SIP) form), describing their segmentation method and results. 
 
@@ -16,21 +16,19 @@ Submit your paper to the [BrainLes CMT submission system](https://cmt3.research.
 
 ---
 
-## **2.  Reporting your Team ID**
+## **2. Reporting your Team ID**
 
 When you submit to the BrainLes CMT submission system, you will be asked for your Synapse Team ID. If you submitted as part of a team, you can use your Synapse Team ID, if you submitted as an individual, you can use your Synapse User ID.
 
 ### Finding your Team ID
 
 1. Using the upper-right corner profile menu, select `Teams`.
-${image?synapseId=syn26016690&align=Right&scale=50&responsive=true&altText=Selecting Teams}
 2. From your Teams, select the one that is registered to the BraTS 2021 Challenge.
-3. In the url on your Team page, the number after `Team:` will be the Synapse Team ID you need to report to the submission system.
 ${image?synapseId=syn26016691&align=Right&scale=50&responsive=true&altText=Selecting Profile}
+3. In the url on your Team page, the number after `Team:` will be the Synapse Team ID you need to report to the submission system.
 
 ### Finding your User ID
 
 1. Using the upper-right corner profile menu, select `Profile`.
-${image?synapseId=syn26016689&align=Right&scale=50&responsive=true&altText=Finding Team ID}
-2. In the url on your profile page, the number after `Profile:` will be the Synapse User ID you need to report to the submission system.
 ${image?synapseId=syn26016692&align=Right&scale=50&responsive=true&altText=Finding User ID}
+2. In the url on your profile page, the number after `Profile:` will be the Synapse User ID you need to report to the submission system.
