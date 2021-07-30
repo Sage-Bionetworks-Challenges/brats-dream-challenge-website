@@ -73,6 +73,7 @@ Please tick "US" or "Crown" option only if you working directly in one of those 
 ### Reviewer Responsibilities
 
 Once the submissions are complete you will be invited to lightly review 2-3 papers for any potential errors or inappropriate language. You need to review these papers while having in mind the following 2 points:
+
 - Is there anything missing in the methodological description?
 - Is there anything that is currently missing, and the authors can do in a week to improve their paper? 
 
