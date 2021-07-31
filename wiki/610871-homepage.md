@@ -94,7 +94,7 @@ Learn more about the [**Challenge Data**](#!Synapse:syn25829070/wiki/610873)
 | 7 Jul | Training phase start (Release of training data + associated ground truth). |
 | 2 Aug | Validation phase (Release of validation data. Hidden ground truth). |
 | 13 Aug | Submission of short papers, reporting method & preliminary results. |
-| 20 Aug | Begin accepting final model Docker containers. |
+| 20 Aug | End of Validation Phase. Begin accepting final model Docker containers. |
 | 27 Aug | Contacting methods top-ranked in validation phase, to prepare slides for oral presentation at MICCAI. |
 | 4 Oct | Challenge at MICCAI 2021. Presentations on validation phase results. |
 | 20-30 Oct | Final ranking phase on unseen testing data. |
