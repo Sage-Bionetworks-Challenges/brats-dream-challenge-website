@@ -57,8 +57,7 @@ There are two submission phases to the BraTS 2021 Challenge: the **Validation Ph
 
 ### Validation Phase
 
-During the validation phase, we will be only accepting segmentation files as submissions. Please see the  
-Follow the instructions at the [Submission Process (Validation Phase)](#!Synapse:syn25829070/wiki/612082) page.
+During the validation phase, we will be only accepting segmentation files as submissions. Please follow the instructions at the [Submission Process (Validation Phase)](#!Synapse:syn25829070/wiki/612082) page.
 
 > Since your submission will include files you need to upload to Synapse, you must be a [**Certified User**](https://docs.synapse.org/articles/accounts_certified_users_and_profile_validation.html#certified-users).
 >
