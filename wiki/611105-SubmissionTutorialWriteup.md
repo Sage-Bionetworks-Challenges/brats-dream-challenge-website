@@ -38,7 +38,7 @@ When you submit to the BrainLes CMT submission system, you will be asked for you
 ${image?synapseId=syn26016691&align=Right&scale=50&responsive=true&altText=Selecting Profile}
 3. In the url on your Team page, the number after `Team:` will be the Synapse Team ID you need to report to the submission system.
 
-### Finding your User ID
+### Finding your User ID 
 
 1. Using the upper-right corner profile menu, select `Profile`.
 ${image?synapseId=syn26016692&align=Right&scale=50&responsive=true&altText=Finding User ID}
@@ -56,7 +56,7 @@ When you submit your paper:
 
 ${buttonlink?text=BrainLes CMT Submission System&url=https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FBrainLes2021%2F}
 
-### Copywrite Form
+### Copyright Form
 
 You will also need to upload a copyright form with your short paper. Please fill in and sign the required fields of the [LNCS COPYRIGHT FORM](bit.ly/3BPEMMA), as follows:
 
