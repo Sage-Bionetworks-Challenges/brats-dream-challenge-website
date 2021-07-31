@@ -42,4 +42,4 @@ ${image?synapseId=syn26016673&align=Left&scale=50&responsive=true&altText=Upload
 <!-- ${evalsubmit?projectId=syn25829070&unavailableMessage=Please register to make a submission.&buttonText=Submit to the challenge} -->
 
 ${image?synapseId=syn26016672&align=Right&scale=50&responsive=true&altText=Submitting a File}
-To submit your predictions tarball, navigate to the tarball you uploaded on Synapse and click on the **File Tools** button in the upper-right corner.  Select **Submit File to Challenge** from the options, then follow the prompts. Select the `BraTS Challenge - Task 1` challenge.
+To submit your predictions tarball, navigate to the tarball you uploaded on Synapse and click on the **File Tools** button in the upper-right corner.  Select **Submit File to Challenge** from the options, then follow the prompts. Select the `BraTS Challenge - Task 1` challenge. You can track the status of your submission in the [submission dashboard](#!Synapse:syn25829070/wiki/611102).
