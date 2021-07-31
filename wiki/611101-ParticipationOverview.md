@@ -43,11 +43,11 @@ Complete the follow steps to gain access to the training data. You can find the 
     ${buttonlink?text=Request Data Access&url=https://forms.gle/RuNkiqKDCKbvUmR37}
 3. **Download the Data.**
 {row}
-{column width=2}
-    ${buttonlink?text=Access the Training Data&url=#!Synapse:syn25953134}
+{column width=3}
+${buttonlink?text=Access the Training Data&url=#!Synapse:syn25953134}
 {column}
-{column width=2}
-    ${buttonlink?text=Access the Training Data&url=#!Synapse:syn26017015}
+{column width=3}
+${buttonlink?text=Access the Validation Data&url=#!Synapse:syn26017015}
 {column}
 {row}
 
@@ -57,7 +57,7 @@ There are two submission phases to the BraTS 2021 Challenge: the **Validation Ph
 
 ### Validation Phase
 
-During the validation, we will be only accepting segmentation files as submissions. Please see the  
+During the validation phase, we will be only accepting segmentation files as submissions. Please see the  
 Follow the instructions at the [Submission Process (Validation Phase)](#!Synapse:syn25829070/wiki/612082) page.
 
 > Since your submission will include files you need to upload to Synapse, you must be a [**Certified User**](https://docs.synapse.org/articles/accounts_certified_users_and_profile_validation.html#certified-users).
