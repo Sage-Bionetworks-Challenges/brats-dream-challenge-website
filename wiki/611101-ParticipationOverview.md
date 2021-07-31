@@ -41,8 +41,15 @@ Complete the follow steps to gain access to the training data. You can find the 
 2. **Complete the data access request form.** You will receive a confirmation email when you are given access to the training data.
     <!-- markdownlint-disable-next-line no-bare-urls -->
     ${buttonlink?text=Request Data Access&url=https://forms.gle/RuNkiqKDCKbvUmR37}
-3. **Download the Training Data.**
-    ${buttonlink?text=Access the Data&url=#!Synapse:syn25953134}
+3. **Download the Data.**
+{row}
+{column width=2}
+    ${buttonlink?text=Access the Training Data&url=#!Synapse:syn25953134}
+{column}
+{column width=2}
+    ${buttonlink?text=Access the Training Data&url=#!Synapse:syn26017015}
+{column}
+{row}
 
 ## **Step 4. Prepare a Submission**
 

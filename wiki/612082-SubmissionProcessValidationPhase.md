@@ -32,8 +32,8 @@ ${toc}
 >
 >${buttonlink?text=Become a Certified User&url=%23%21Quiz%3A&highlight=true}
 
-${image?synapseId=syn26016673&align=Right&scale=50&responsive=true&altText=Uploading your zip files}
 Go to your `BraTS DREAM Challenge <Your team name>` project and upload your tarball to the `Files` tab.
+${image?synapseId=syn26016673&align=Left&scale=50&responsive=true&altText=Uploading your zip files}
 
 ---
 
