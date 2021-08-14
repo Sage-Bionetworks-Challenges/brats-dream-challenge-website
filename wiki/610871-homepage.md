@@ -97,7 +97,7 @@ Learn more about the [**Challenge Data**](#!Synapse:syn25829070/wiki/610873)
 | 21 Aug | Begin accepting final model Docker containers. |
 | 27 Aug | Contacting methods top-ranked in validation phase, to prepare slides for oral presentation at MICCAI. |
 | 4 Oct | Challenge at MICCAI 2021. Presentations on validation phase results. |
-| 15 Oct | Final model submission for [**Task 2**](!https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview). | 
+| 15 Oct | Final model submission for Task 2 hosted on [**Kaggle**](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview). | 
 | 20-30 Oct | Final ranking phase on unseen testing data. |
 | 29 Nov | Challenge conlusion at RSNA 2021. Announcement of top 3 ranked teams & distribution of awards. |
 | 12 Dec | Extended Camera-Ready LNCS paper submission deadline. |
