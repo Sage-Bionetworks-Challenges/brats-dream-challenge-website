@@ -29,7 +29,7 @@ During the **Docker Submission Phase** (August 20 - August 27 @ 23:59 Eastern Ti
 
 Consistent with the configuration of previous BraTS challenges, we intend to use the "Dice Similarity Coefficient", and the "Hausdorff distance (95%)". The aggregate rankings from these two metrics will determine the recipients of monetary awards.
 
-Expanding upon this evaluation scheme, we will also provide the metrics of "Sensitivity" and "Specificity", allowing to determine potential over- or under-segmentations of the tumor sub-regions by participating methods. These metrics are provided for participant guidance, and will not impact aggregate rankings. 
+Expanding upon this evaluation scheme, we will also provide the metrics of "Sensitivity" and "Specificity" to determine potential over- or under-segmentations of the tumor sub-regions by participating methods. These metrics are provided for participant guidance, and will not impact aggregate rankings. 
 
 
 ---
