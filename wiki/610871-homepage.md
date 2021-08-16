@@ -93,9 +93,9 @@ Learn more about the [**Challenge Data**](#!Synapse:syn25829070/wiki/610873)
 | 1 Jul | (Pre)-Registration opens for Task 1. |
 | 7 Jul | Training phase start (Release of training data + associated ground truth). |
 | 2 Aug | Validation phase starts (Release of validation data. Hidden ground truth). |
-| 20 Aug | Final submission of short papers, reporting method & preliminary results. |
-| 21 Aug | Begin accepting final model Docker containers. |
-| 27 Aug | Contacting methods top-ranked in validation phase, to prepare slides for oral presentation at MICCAI. |
+| 22 Aug | Validation phases ends, submission queue closes. |
+| 23 Aug | Final submission of short papers, reporting method & preliminary results. Participants must submit short paper to continue in Challenge.|
+| 29 Aug | Contacting methods top-ranked in validation phase, to prepare slides for oral presentation at MICCAI. |
 | 4 Oct | Challenge at MICCAI 2021. Presentations on validation phase results. |
 | 15 Oct | Final model submission for Task 2 hosted on [**Kaggle**](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview). | 
 | 20-30 Oct | Final ranking phase on unseen testing data. |
