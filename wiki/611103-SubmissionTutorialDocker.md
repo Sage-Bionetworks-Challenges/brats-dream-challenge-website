@@ -22,20 +22,13 @@ This section will describe how to create your model and how it must take as para
 
 ### Input files
 
-- Your model should take as a parameter `--input`.
-- All input files should be mounted in a directory called `/input` in the working directory of the container.
-- If you have one input file, the convention is to name it `/input/input.csv`. 
-- If you have multiple input files, these should be called `/input/input1.csv`, `/input/input2.csv` and so on.
-- You should provide a description of what the input file(s) will look like in this section
-- If you have multiple rounds, you should describe any differences between the input files for each round in this section.
+- All input files will be mounted in a directory called `/input` in the working directory of the container. 
+- In this input folder, the individual case folders will be available, such that the input folder will contain folders for each patient ID `/input/BraTS2021_ID/`, and in those folders four files will be available: `/input/BraTS2021_ID/BraTS2021_ID_flair.nii.gz`, `/input/BraTS2021_ID/BraTS2021_ID_t1.nii.gz`, `/input/BraTS2021_ID/BraTS2021_ID_t1ci.nii.gz`, `/input/BraTS2021_ID/BraTS2021_ID_t2.nii.gz`. Each `ID` is a five number ID (ex. 00001, 00114, 00553, etc.)
 
 ### Output files
 
 - All output files should be written into a directory called `/output` in the working directory of the container.
-- If there is one output file, the convention is to name it `/output/predictions.csv`. 
-- If there are multiple output files, these should be called `/output/predictions1.csv`, `/output/predictions2.csv` and so on.
-- You should provide a description of what the output file(s) will look like in this section.
-- If you have multiple rounds, you should describe any differences between the input files for each round in this section.
+- Your models will be writing your segmentation files to the `/output` folder and should each be called `ID.nii.gz` where the `ID` is the patient ID, given by the folder name containing the 4 modalities for each patient. In other words, for each of the patient folders in the `input` directory that you were given that contained files named `ID_t1.nii.gz`, `ID_t2.nii.gz`, etc., the individual segmentations should be named ID.nii.gz.
 
 ### Example
 
@@ -44,7 +37,7 @@ Here is an example of what an R script might look like, utilizing the convention
 _run_model.R_
 
 ```bash
-run_model.R --input /input/directory --output /output/directory
+run_model.R --input /input --output /output
 ```
 
 ```r
@@ -62,10 +55,19 @@ option_list = list(
 opt_parser = OptionParser(option_list=option_list);
 opt = parse_args(opt_parser);
 
-input_df <- read_csv(file.path(opt$input, "input.csv"))
+## functions read and write are not real R functions, but are examples here.
+
+## Read in the t1 modality data for case 00001
+input_df <- read(file.path(opt$input, "00001_t1.nii.gz"))
+
+## Read in your trained model
 model    <- readRDS("/usr/local/bin/model.rds")
-scores   <- predict(model, input_df)
-write_csv(output_df,  file.path(opt$output, "predictions.csv"))
+
+## Make your prediction segmentation file for case 00001
+segmentation_output   <- predict(model, input_df)
+
+## write your prediction to the output folder
+write(segmentation_output,  file.path(opt$output, "00001.nii.gz"))
 ```
 
 ---
@@ -192,7 +194,28 @@ $ docker build -t  docker.synapse.org/syn12345/my-model .
 
 ---
 
-## **5. Upload your Docker image**
+## **5. Locally test your Docker container
+
+This section describes how to test and run your Docker locally to test your model.
+
+### Run your container for testing
+
+After you build your Docker image in step 4, you can run your container locally to check that your model will correctly run as a Docker container.
+
+CPU:
+```
+docker run -it --rm --name your_container_name -v "/your/input/folder/":"/input" -v "/your/output/folder/":"/output" your_application_name
+```
+
+GPU:
+```
+docker run -it --rm --gpus device=0 --name your_container_name -v "/your/input/folder/":"/input" -v "/your/output/folder/":"/output" your_application_name
+```
+
+Check the output folder to make sure your container properly output the segmentation files.
+
+---
+## **6. Upload your Docker image**
 
 This section describes how to push your built Docker image from your local workstation up into Synapse. 
 
@@ -246,7 +269,7 @@ If the Docker image was successfully pushed, it should show up in the **Docker**
 
 ---
 
-## **6. Submit your Docker image**
+## **7. Submit your Docker image**
 
 <!-- ${evalsubmit?projectId=syn25829070&unavailableMessage=Please register to make a submission.&buttonText=Submit to the challenge} -->
 
