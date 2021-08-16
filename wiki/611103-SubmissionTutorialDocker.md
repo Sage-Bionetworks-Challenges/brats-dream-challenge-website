@@ -217,6 +217,7 @@ docker run -it --rm --gpus device=0 --name your_container_name -v "/your/input/f
 Check the output folder to make sure your container properly output the segmentation files.
 
 ---
+
 ## **6. Upload your Docker image**
 
 This section describes how to push your built Docker image from your local workstation up into Synapse. 
