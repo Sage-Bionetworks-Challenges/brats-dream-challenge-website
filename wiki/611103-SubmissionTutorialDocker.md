@@ -204,13 +204,13 @@ After you build your Docker image in step 4, you can run your container locally 
 
 CPU:
 
-```
+```bash
 docker run -it --rm --name your_container_name -v "/your/input/folder/":"/input" -v "/your/output/folder/":"/output" your_application_name
 ```
 
 GPU:
 
-```
+```bash
 docker run -it --rm --gpus device=0 --name your_container_name -v "/your/input/folder/":"/input" -v "/your/output/folder/":"/output" your_application_name
 ```
 
