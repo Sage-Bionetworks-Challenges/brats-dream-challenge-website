@@ -194,7 +194,7 @@ $ docker build -t  docker.synapse.org/syn12345/my-model .
 
 ---
 
-## **5. Locally test your Docker container
+## **5. Locally test your Docker container**
 
 This section describes how to test and run your Docker locally to test your model.
 
