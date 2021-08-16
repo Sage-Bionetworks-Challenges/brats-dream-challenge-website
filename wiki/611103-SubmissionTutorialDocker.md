@@ -203,11 +203,13 @@ This section describes how to test and run your Docker locally to test your mode
 After you build your Docker image in step 4, you can run your container locally to check that your model will correctly run as a Docker container.
 
 CPU:
+
 ```
 docker run -it --rm --name your_container_name -v "/your/input/folder/":"/input" -v "/your/output/folder/":"/output" your_application_name
 ```
 
 GPU:
+
 ```
 docker run -it --rm --gpus device=0 --name your_container_name -v "/your/input/folder/":"/input" -v "/your/output/folder/":"/output" your_application_name
 ```
