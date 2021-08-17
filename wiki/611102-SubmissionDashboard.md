@@ -1,13 +1,12 @@
 <!-- markdownlint-disable-next-line first-line-h1 -->
-<!-- markdownlint-no-missing-space-atx -->
 You can check the progress of all of your submissions here. Log files are generated for each submission and have been linked below for your convenience. If a submission is invalid, we advise that you check the log files as a first step.
 
 > Note: Only the **user** who submitted will be able to see the submissions.  Even if you are part of the team, if you did not submit the entry, you will not be able to check any progress here.
-
+<!-- markdownlint-disable-next-line no-missing-space-atx -->
 ####! **Aug. 10th - 20th**
 
 ${leaderboard?queryTableResults=true&path=/evaluation/submission/query%3Fquery%3DSELECT%2B%2A%2BFROM%2Bevaluation%5F9614876%2Bwhere%2BuserId%253D%253D%2522%2540CURRENT%5FUSER%2522%2B&paging=true&pageSize=100&columnConfig0=none%2CSubmission ID%2CobjectId%3B%2CNONE&columnConfig1=epochdate%2CCreated On%2CcreatedOn%3B%2CDESC&columnConfig2=synapseid%2CSubmission%2CentityId%3B%2CNONE&columnConfig3=userid%2CSubmitter%2CsubmitterId%3B%2CNONE&columnConfig4=none%2CPrediction File Status%2Csubmission%5Fstatus%3B%2CNONE&columnConfig5=none%2CSubmission Status%2Cstatus%3B%2CNONE&columnConfig6=synapseid%2CLog Folder%2CorgSagebionetworksSynapseWorkflowOrchestratorSubmissionFolder%3B%2CNONE&columnConfig7=date%2CWorkflow Started%2CorgSagebionetworksSynapseWorkflowOrchestratorExecutionStarted%3B%2CNONE&columnConfig8=date%2CLast Updated%2CorgSagebionetworksSynapseWorkflowOrchestratorLastLogUpload%3B%2CNONE&columnConfig9=none%2C%2CrepositoryName%3B%2CNONE}
-
+<!-- markdownlint-disable-next-line no-missing-space-atx -->
 ####! **Aug. 2nd - 10th**
 
 ${leaderboard?queryTableResults=true&path=/evaluation/submission/query%3Fquery%3DSELECT%2B%2A%2BFROM%2Bevaluation%5F9614854%2Bwhere%2BuserId%253D%253D%2522%2540CURRENT%5FUSER%2522%2B&paging=true&pageSize=100&columnConfig0=none%2CSubmission ID%2CobjectId%3B%2CNONE&columnConfig1=epochdate%2CCreated On%2CcreatedOn%3B%2CDESC&columnConfig2=synapseid%2CSubmission%2CentityId%3B%2CNONE&columnConfig3=userid%2CSubmitter%2CsubmitterId%3B%2CNONE&columnConfig4=none%2CPrediction File Status%2Csubmission%5Fstatus%3B%2CNONE&columnConfig5=none%2CSubmission Status%2Cstatus%3B%2CNONE&columnConfig6=synapseid%2CLog Folder%2CorgSagebionetworksSynapseWorkflowOrchestratorSubmissionFolder%3B%2CNONE&columnConfig7=date%2CWorkflow Started%2CorgSagebionetworksSynapseWorkflowOrchestratorExecutionStarted%3B%2CNONE&columnConfig8=date%2CLast Updated%2CorgSagebionetworksSynapseWorkflowOrchestratorLastLogUpload%3B%2CNONE&columnConfig9=none%2C%2CrepositoryName%3B%2CNONE}
