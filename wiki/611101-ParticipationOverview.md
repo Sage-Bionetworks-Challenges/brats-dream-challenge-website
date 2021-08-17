@@ -70,7 +70,7 @@ Your validation submissions are due August 22 at 23:59 EST.
 During the final submission phase, in order for a participant to be eligible as a consortium-level author, there are two parts to the final submission:
 
 1.  A short paper submission to the [**BrainLes CMT submission system**](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FBrainLes2021%2F).  View [**Writeup Submission**](#!Synapse:syn25829070/wiki/611105). Short papers are due August 23 at 10:00 Eastern Time.
-2.  An executable Docker container that contains the participant's model. View [**Docker Submission**](#!Synapse:syn25829070/wiki/611103). Final containers are due August 27 at 23:59 Eastern Time. Your short paper **must be submitted** in order for you to be able to submit your final docker. 
+2.  An executable Docker container that contains the participant's model. View [**Docker Submission**](#!Synapse:syn25829070/wiki/611103). Final containers are due August 29 at 23:59 Eastern Time. Your short paper **must be submitted** in order for you to be able to submit your final docker. 
 
 ## **Step 5. Submission**
 

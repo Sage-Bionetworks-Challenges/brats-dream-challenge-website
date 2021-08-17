@@ -19,7 +19,7 @@ You can find the description and conditions for use for the training data below.
 An independent set of validation scans have be made available to the participants, with the intention to allow them assess the generalizability of their methods in unseen data, via the evaluation platform. When you submit your segmentation files, results will be posted to the [public leaderboard](#!Synapse:syn611106).
 ${buttonlink?text=Download Validation Data&url=#!Synapse:syn26017015}
 
-### Short Paper submission deadline
+### Short Paper submission
 
 Participants will have to evaluate their methods on the training and validation datasets, and submit their short paper (8-10 LNCS pages — together with the "LNCS Consent to Publish" form), describing their segmentation method and results. The paper submission is expected at the BrainLes CMT submission system, after choosing BRATS as the "Track". Please ensure that you include the appropriate citations, mentioned at the bottom of the "Data" section. This unified scheme should allow for appropriate preliminary comparisons and the creation of the MICCAI BrainLes conference proceedings. Participants are allowed to submit longer papers to the MICCAI 2021 BrainLes Workshop, by choosing "BrainLes" as the "Track". BraTS papers will be part of the BrainLes workshop proceedings distributed by Springer LNCS. All paper submissions should use the LNCS template, available both in LaTeX and in MS Word format, directly from Springer.
 ${buttonlink?text=Submit Your Short Papers&url=#!Synapse:611105}
@@ -30,7 +30,7 @@ The top-ranked participants of the validation phase that have also submitted a s
 
 ### Final ranking phase
 
-The BraTS 2021 test scans will not be made available to the participating teams. Participants will need to submit their method in a containerized form (more details will follow up soon) to be evaluated on the validation and the hidden testing data.
+The BraTS 2021 test scans will not be made available to the participating teams. Participants will need to submit their method in a containerized form (see [Submission Tutorial (Docker)](#!Synapse:syn25829067/wiki/611500)) to be evaluated on the validation and the hidden testing data. In order to be eligible for final docker submission, you must have submitted a [short paper](#!Synapse:syn25829067/wiki/611501).
 
 ### Announcement of Final Results
 
