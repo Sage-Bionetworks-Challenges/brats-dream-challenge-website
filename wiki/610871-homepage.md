@@ -94,7 +94,7 @@ Learn more about the [**Challenge Data**](#!Synapse:syn25829070/wiki/610873)
 | 7 Jul | Training phase start (Release of training data + associated ground truth). |
 | 2 Aug | Validation phase starts (Release of validation data. Hidden ground truth). |
 | 22 Aug | Validation phases ends, submission queue closes. |
-| 23 Aug | Final submission of short papers, reporting method & preliminary results. Participants must submit short paper to continue in Challenge.|
+| 23 Aug at 10am EST | Final submission of short papers, reporting method & preliminary results. Participants must submit short paper to continue in Challenge.|
 | 29 Aug | Contacting methods top-ranked in validation phase, to prepare slides for oral presentation at MICCAI. |
 | 4 Oct | Challenge at MICCAI 2021. Presentations on validation phase results. |
 | 15 Oct | Final model submission for Task 2 hosted on [**Kaggle**](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview). | 
@@ -102,7 +102,7 @@ Learn more about the [**Challenge Data**](#!Synapse:syn25829070/wiki/610873)
 | 29 Nov | Challenge conlusion at RSNA 2021. Announcement of top 3 ranked teams & distribution of awards. |
 | 12 Dec | Extended Camera-Ready LNCS paper submission deadline. |
 | --- | --- |
-| | **(All deadlines are for 23:59 Eastern Time)** |
+| | **(All deadlines are for 23:59 Eastern Time unless otherwise mentioned)** |
 
 ---
 
