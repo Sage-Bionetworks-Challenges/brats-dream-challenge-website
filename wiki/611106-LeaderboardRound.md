@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line first-line-h1 -->
 <!-- markdownlint-disable-next-line no-trailing-punctuation -->
 #### This is an unranked leaderboard of the participating users/teams during the **Validation Phase (August 2 - 22, 2021)**.
 
