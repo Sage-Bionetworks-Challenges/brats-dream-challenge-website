@@ -63,12 +63,14 @@ During the validation phase, we will be only accepting segmentation files as sub
 >
 > ${buttonlink?text=Become a Certified User&url=%23%21Quiz%3A&highlight=true}
 
+Your validation submissions are due August 22 at 23:59 EST.
+
 ### Final Submission Phase
 
 During the final submission phase, in order for a participant to be eligible as a consortium-level author, there are two parts to the final submission:
 
-1.  An executable Docker container that contains the participant's model.   View [**Docker Submission**](#!Synapse:syn25829070/wiki/611103). Final containers are due August 27 at 23:59 Eastern Time.
-1.  A short paper submission to the [**BrainLes CMT submission system**](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FBrainLes2021%2F).  View [**Writeup Submission**](#!Synapse:syn25829070/wiki/611105). Short papers are due August 13 at 23:59 Eastern Time.
+1.  A short paper submission to the [**BrainLes CMT submission system**](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FBrainLes2021%2F).  View [**Writeup Submission**](#!Synapse:syn25829070/wiki/611105). Short papers are due August 23 at 10:00 Eastern Time.
+2.  An executable Docker container that contains the participant's model. View [**Docker Submission**](#!Synapse:syn25829070/wiki/611103). Final containers are due August 27 at 23:59 Eastern Time. Your short paper **must be submitted** in order for you to be able to submit your final docker. 
 
 ## **Step 5. Submission**
 
@@ -81,7 +83,7 @@ Read more [**here**](https://docs.synapse.org/articles/access_controls.html#how-
 
 ${evalsubmit?projectId=syn25829070&unavailableMessage=Please register to make a submission.&buttonText=Submit to the challenge} -->
 
-> ####! **All submissions are due at 23:59 Eastern Time of the deadline date.**
+> ####! **All submissions are due at 23:59 Eastern Time of the deadline date, unless otherwise specified.**
 
 When you are ready to submit, go to your project containing the submission file and/or Docker, and navigate to the file or Docker page.  Select the Tools button in the upper-right corner (either **Files Tools** or **Docker Repository Tools**) and select **Submit to Challenge**.   Make sure to indicate whether you are submitting as an individual or a team. If submitting as a team, identify the team. _Once you have submitted as a Team, you may not submit as an individual and vice versa._
 

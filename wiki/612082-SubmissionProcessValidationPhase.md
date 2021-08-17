@@ -7,7 +7,7 @@ ${toc}
 
 ---
 
-> ### During the Validation phase (August 2 - August 20), you are only expected to submit your segementation files. Validation submissions are due August 20 at 23:59 Eastern Time. We will **not be accepting** docker containers until August 20 at 23:59 Eastern Time.
+> During the Validation phase (August 2 - August 22), you are only expected to submit your segementation files. Validation submissions are due August 22 at 10:00 Eastern Time. We will **not be accepting** docker containers until August 23 at 23:59 Eastern Time.
 
 ## **1. Create a Synapse Project**
 
