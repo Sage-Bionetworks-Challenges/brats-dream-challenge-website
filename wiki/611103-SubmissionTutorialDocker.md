@@ -8,7 +8,7 @@ ${toc}
 
 ## Final Submission Eligibility
 
-Starting September 1 at 23:59 Eastern Time, we will be accepting docker submissions. In order to be eligible you need to have submitted your [short paper](#!Synapse:syn25829070/wiki/611105) by August 23 at 10 am Eastern Time. If you don't have a short paper submitted, you will not be able to submit a final docker submission.
+Starting September 1 at 23:59 Eastern Time, we will be accepting docker submissions. In order to be eligible you need to have submitted your [short paper](#!Synapse:syn25829070/wiki/611105) by August 23 at 10 am Eastern Time. If you don't have a short paper submitted, you will not be able to submit a final docker submission. Your final docker submission is due September 15 at 23:59 Eastern Time.
 
 ---
 
