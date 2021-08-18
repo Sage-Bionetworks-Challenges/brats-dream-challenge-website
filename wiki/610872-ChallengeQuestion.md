@@ -20,7 +20,7 @@ The participants are called to upload their method in a containerized way for ev
 During the **Validation Phase** (August 2 - August 22 @ 23:59 Eastern Time), we are only accepting segmentation files.
 > See [Validation Phase Submissions](#!Synapse:syn25829070/wiki/612082)
 
-During the **Docker Submission Phase** (August 24 - August 29 @ 23:59 Eastern Time), we will be accepting the final docker container submissions. You must have submitted a [short paper](#!Synapse:syn25829067/wiki/611501) in order to be eligible to submit a final submission.
+During the **Docker Submission Phase** (September 1 - September 15 @ 23:59 Eastern Time), we will be accepting the final docker container submissions. You must have submitted a [short paper](#!Synapse:syn25829067/wiki/611501) in order to be eligible to submit a final submission.
 > See [Submission Tutorial (Docker)](#!Synapse:syn2582970/wiki/611105)
 
 ---
