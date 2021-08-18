@@ -7,7 +7,7 @@ ${toc}
 
 ---
 
-> During the Validation phase (August 2 - August 22), you are only expected to submit your segementation files. Validation submissions are due August 22 at 23:59 Eastern Time. We will **not be accepting** docker containers until August 24 at 23:59 Eastern Time.
+> During the Validation phase (August 2 - August 22), you are only expected to submit your segementation files. Validation submissions are due August 22 at 23:59 Eastern Time. We will **not be accepting** docker containers until September 1 at 23:59 Eastern Time.
 
 > We **cannot** guarantee that your submissions will be scored by the time your short papers are due. Please submit your predictions at least 48 hours before your short papers are due to make sure you can get your scores from your validation phase submissions.
 
