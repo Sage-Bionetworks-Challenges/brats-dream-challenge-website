@@ -132,6 +132,25 @@ Learn more about [**How to Participate**](#!Synapse:syn25829070/wiki/610874) to 
 
 ---
 
+## Annotation Volunteers
+(in order of decreasing data contributions)
+
+- Christos Davatzikos, Ph.D., & Spyridon (Spyros) Bakas, Ph.D., & Chiharu Sako, Ph.D., CBICA, University of Pennsylvania, Philadelphia, PA, USA
+- John Mongan, M.D., Ph.D. & Evan Calabrese, M.D., Ph.D. & Jeff Rudie, M.D., Ph.D. & Christopher Hess, M.D., Ph.D. & Soonmee Cha, M.D. & Javier Villanueva-Meyer, M.D., University of California San Francisco, CA, USA
+- John B. Freymann & Justin S. Kirby - on behalf of The Cancer Imaging Archive (TCIA), Cancer Imaging Program, NCI, NIH, USA
+- Benedikt Wiestler, M.D., & Bjoern Menze, Ph.D., Technical University of Munich, Germany
+- Bjoern Menze, Ph.D., University of Zurich, Switzerland
+- Errol Colak, M.D. & Priscila Crivellaro, M.D., University of Toronto, Toronto, ON, Canada
+- Rivka R. Colen, M.D., & Aikaterini Kotrotsou, Ph.D., MD Anderson Cancer Center, TX, USA
+- Daniel Marcus, Ph.D., & Mikhail Milchenko, Ph.D., & Arash Nazeri, M.D., Washington University School of Medicine in St. Louis, MO, USA
+- Hassan Fathallah-Shaykh, M.D., Ph.D., University of Alabama at Birmingham, AL, USA
+- Roland Wiest, M.D., University of Bern, Switzerland
+- Andras Jakab, M.D., Ph.D., University of Debrecen, Hungary
+- Marc-Andre Weber, M.D., Heidelberg University, Germany
+- Abhishek Mahajan, M.D., & Ujjwal Baid, Ph.D., Tata Memorial Centre, Mumbai, India, & SGGS Institute of Engineering and Technology, Nanded, India
+
+---
+
 ## Challenge Organizing Committee
 
 | Name |  Institution | Role |
