@@ -95,8 +95,8 @@ Learn more about the [**Challenge Data**](#!Synapse:syn25829070/wiki/610873)
 | 2 Aug | Validation phase starts (Release of validation data. Hidden ground truth). |
 | 22 Aug | Validation phases ends, submission queue closes. |
 | 23 Aug at 10am EST | Final submission of short papers, reporting method & preliminary results. Participants must submit short paper to continue in Challenge.|
-| 29 Aug | Contacting methods top-ranked in validation phase, to prepare slides for oral presentation at MICCAI. |
 | 1 Sept | Final Docker submission phase opens. |
+| 3 Sept | Contacting methods top-ranked in validation phase, to prepare slides for oral presentation at MICCAI. |
 | 15 Sept | Final Docker submission phase closes. |
 | 16 Sept - 15 Oct | Final ranking phase on unseen testing data. |
 | 4 Oct | Challenge at MICCAI 2021. Presentations on validation phase results. |
