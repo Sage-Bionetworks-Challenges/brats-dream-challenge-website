@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line first-line-h1 MD018 -->
 ####! This is an unranked leaderboard of the participating users/teams who have submitted a short paper to [**BrainLes CMT**](http://www.brainlesion-workshop.org/).
 
 Below are the median scores of select segmentation files described in their respective papers.
