@@ -29,7 +29,7 @@ This section will describe how to create your model and how it must take as para
 ### Input files
 
 - All input files will be mounted in a directory called `/input` in the working directory of the container. 
-- In this input folder, four files will be available: `/input/BraTS2021_ID_flair.nii.gz`, `/input/BraTS2021_ID_t1.nii.gz`, `/input/BraTS2021_ID_t1ci.nii.gz`, `/input/BraTS2021_ID_t2.nii.gz`. Each `ID` is a five number ID (ex. 00001, 00114, 00553, etc.)
+- In this input folder, four files will be available: `/input/BraTS2021_ID_flair.nii.gz`, `/input/BraTS2021_ID_t1.nii.gz`, `/input/BraTS2021_ID_t1ce.nii.gz`, `/input/BraTS2021_ID_t2.nii.gz`. Each `ID` is a five number ID (ex. 00001, 00114, 00553, etc.)
 
 
 

@@ -69,7 +69,8 @@
         "title": "Submission Dashboard",
         "parentId": "611092",
         "markdown_path": "611102-SubmissionDashboard.md"
-    },{
+    },
+    {
         "id": "612082",
         "title": "Submission Process (Validation Phase)",
         "parentId": "611092",
@@ -89,9 +90,15 @@
     },
     {
         "id": "611106",
-        "title": "Leaderboard Round",
+        "title": "Validation Phase",
         "parentId": "611096",
-        "markdown_path": "611106-LeaderboardRound.md"
+        "markdown_path": "611106-ValidationPhase.md"
+    },
+    {
+        "id": "612607",
+        "title": "Validation Phase Snapshot",
+        "parentId": "611096",
+        "markdown_path": "612607-ValidationPhaseSnapshot.md"
     },
     {
         "id": "611098",
