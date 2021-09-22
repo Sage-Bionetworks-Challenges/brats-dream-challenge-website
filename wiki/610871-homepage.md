@@ -97,8 +97,8 @@ Learn more about the [**Challenge Data**](#!Synapse:syn25829070/wiki/610873)
 | 23 Aug at 10am EST | Final submission of short papers, reporting method & preliminary results. Participants must submit short paper to continue in Challenge.|
 | 3 Sept | Contacting methods top-ranked in validation phase, to prepare slides for oral presentation at MICCAI. |
 | 8 Sept | Final Docker submission phase opens. |
-| 23 Sept | Final Docker submission phase closes. |
-| 23 Sept - 15 Oct | Final ranking phase on unseen testing data. |
+| 24 Sept | Final Docker submission phase closes. |
+| 24 Sept - 15 Oct | Final ranking phase on unseen testing data. |
 | 4 Oct | Challenge at MICCAI 2021. Presentations on validation phase results. |
 | 15 Oct | Final model submission for Task 2 hosted on [**Kaggle**](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview). | 
 | 29 Nov | Challenge conlusion at RSNA 2021. Announcement of top 3 ranked teams & distribution of awards. |
