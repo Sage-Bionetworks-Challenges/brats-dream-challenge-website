@@ -226,3 +226,6 @@ Learn more about [**How to Participate**](#!Synapse:syn25829070/wiki/610874) to 
 | Jeffrey D. Rudie | University of California San Francisco | Co-Organizer |
 | Russell T. Shinohara | University of Pennsylvania | Co-Organizer |
 ---
+
+## Sponsors 
+![Sponsors](https://user-images.githubusercontent.com/5205872/134263758-001467f4-cd0c-4da8-9424-915c376c1450.png)
